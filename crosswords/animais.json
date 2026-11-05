@@ -4,13 +4,69 @@
   "rows": 12,
   "cols": 12,
   "words": [
-    { "text": "LEAO", "clue": "Rei da selva, símbolo de força e coragem.", "rowStart": 0, "colStart": 0, "direction": "HORIZONTAL", "number": 1 },
-    { "text": "TIGRE", "clue": "Felino listrado, um dos maiores predadores da Ásia.", "rowStart": 2, "colStart": 6, "direction": "HORIZONTAL", "number": 2 },
-    { "text": "GIRAFA", "clue": "Animal de pescoço longo, o mais alto do mundo.", "rowStart": 8, "colStart": 0, "direction": "HORIZONTAL", "number": 3 },
-    { "text": "COBRA", "clue": "Réptil sem patas que se desloca rastejando.", "rowStart": 9, "colStart": 6, "direction": "HORIZONTAL", "number": 4 },
-    { "text": "LOBO", "clue": "Canino selvagem que vive e caça em matilha.", "rowStart": 0, "colStart": 0, "direction": "VERTICAL", "number": 5 },
-    { "text": "TATU", "clue": "Mamífero com carapaça, comum no Brasil.", "rowStart": 2, "colStart": 6, "direction": "VERTICAL", "number": 6 },
-    { "text": "GATO", "clue": "Felino doméstico muito popular como animal de estimação.", "rowStart": 8, "colStart": 0, "direction": "VERTICAL", "number": 7 },
-    { "text": "CAO", "clue": "Considerado o melhor amigo do homem.", "rowStart": 9, "colStart": 6, "direction": "VERTICAL", "number": 8 }
+    {
+      "text": "LEAO",
+      "clue": "Rei da selva, símbolo de força e coragem.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "LOBO",
+      "clue": "Canino selvagem que vive e caça em matilha.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "TIGRE",
+      "clue": "Felino listrado, um dos maiores predadores da Ásia.",
+      "rowStart": 2,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "TATU",
+      "clue": "Mamífero com carapaça, comum no Brasil.",
+      "rowStart": 2,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "GIRAFA",
+      "clue": "Animal de pescoço longo, o mais alto do mundo.",
+      "rowStart": 8,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "GATO",
+      "clue": "Felino doméstico muito popular como animal de estimação.",
+      "rowStart": 8,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "COBRA",
+      "clue": "Réptil sem patas que se desloca rastejando.",
+      "rowStart": 9,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "CAO",
+      "clue": "Considerado o melhor amigo do homem.",
+      "rowStart": 9,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 4
+    }
   ]
 }

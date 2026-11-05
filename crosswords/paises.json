@@ -4,13 +4,69 @@
   "rows": 12,
   "cols": 12,
   "words": [
-    { "text": "BRASIL", "clue": "Maior país da América do Sul.", "rowStart": 0, "colStart": 2, "direction": "HORIZONTAL", "number": 1 },
-    { "text": "CHILE", "clue": "País estreito entre os Andes e o Pacífico.", "rowStart": 2, "colStart": 0, "direction": "HORIZONTAL", "number": 2 },
-    { "text": "CATAR", "clue": "Sede da Copa do Mundo de 2022.", "rowStart": 4, "colStart": 3, "direction": "HORIZONTAL", "number": 3 },
-    { "text": "ANGOLA", "clue": "País africano de língua portuguesa.", "rowStart": 7, "colStart": 6, "direction": "HORIZONTAL", "number": 4 },
-    { "text": "COLOMBIA", "clue": "Vizinho do Brasil, famoso pelo café.", "rowStart": 2, "colStart": 0, "direction": "VERTICAL", "number": 5 },
-    { "text": "ALEMANHA", "clue": "País europeu da Oktoberfest.", "rowStart": 0, "colStart": 4, "direction": "VERTICAL", "number": 6 },
-    { "text": "INDIA", "clue": "Segundo país mais populoso do mundo.", "rowStart": 0, "colStart": 6, "direction": "VERTICAL", "number": 7 },
-    { "text": "RUANDA", "clue": "País africano conhecido pelos gorilas.", "rowStart": 4, "colStart": 7, "direction": "VERTICAL", "number": 8 }
+    {
+      "text": "BRASIL",
+      "clue": "Maior país da América do Sul.",
+      "rowStart": 0,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "ALEMANHA",
+      "clue": "País europeu da Oktoberfest.",
+      "rowStart": 0,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "INDIA",
+      "clue": "Segundo país mais populoso do mundo.",
+      "rowStart": 0,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "CHILE",
+      "clue": "País estreito entre os Andes e o Pacífico.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "COLOMBIA",
+      "clue": "Vizinho do Brasil, famoso pelo café.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "CATAR",
+      "clue": "Sede da Copa do Mundo de 2022.",
+      "rowStart": 4,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "RUANDA",
+      "clue": "País africano conhecido pelos gorilas.",
+      "rowStart": 4,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "ANGOLA",
+      "clue": "País africano de língua portuguesa.",
+      "rowStart": 7,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 7
+    }
   ]
 }

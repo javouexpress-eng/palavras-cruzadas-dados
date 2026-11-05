@@ -4,13 +4,69 @@
   "rows": 12,
   "cols": 12,
   "words": [
-    { "text": "CASSIOPEIA", "clue": "Constelação em forma de 'W'", "rowStart": 1, "colStart": 1, "direction": "HORIZONTAL", "number": 1 },
-    { "text": "ANDROMEDA", "clue": "Galáxia vizinha da Via Láctea", "rowStart": 4, "colStart": 2, "direction": "HORIZONTAL", "number": 2 },
-    { "text": "CENTAURO", "clue": "Maior constelação do hemisfério sul", "rowStart": 7, "colStart": 3, "direction": "HORIZONTAL", "number": 3 },
-    { "text": "PEGASO", "clue": "Constelação do cavalo alado", "rowStart": 11, "colStart": 2, "direction": "HORIZONTAL", "number": 4 },
-    { "text": "ORION", "clue": "Constelação do caçador", "rowStart": 1, "colStart": 6, "direction": "VERTICAL", "number": 5 },
-    { "text": "TOURO", "clue": "Constelação do zodíaco", "rowStart": 6, "colStart": 10, "direction": "VERTICAL", "number": 6 },
-    { "text": "LEAO", "clue": "Constelação do zodíaco", "rowStart": 6, "colStart": 4, "direction": "VERTICAL", "number": 7 },
-    { "text": "DOURADO", "clue": "Constelação austral (Dorado)", "rowStart": 4, "colStart": 9, "direction": "VERTICAL", "number": 8 }
+    {
+      "text": "CASSIOPEIA",
+      "clue": "Constelação em forma de 'W'",
+      "rowStart": 1,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "ORION",
+      "clue": "Constelação do caçador",
+      "rowStart": 1,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "ANDROMEDA",
+      "clue": "Galáxia vizinha da Via Láctea",
+      "rowStart": 4,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "DOURADO",
+      "clue": "Constelação austral (Dorado)",
+      "rowStart": 4,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "LEAO",
+      "clue": "Constelação do zodíaco",
+      "rowStart": 6,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "TOURO",
+      "clue": "Constelação do zodíaco",
+      "rowStart": 6,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "CENTAURO",
+      "clue": "Maior constelação do hemisfério sul",
+      "rowStart": 7,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "PEGASO",
+      "clue": "Constelação do cavalo alado",
+      "rowStart": 11,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
   ]
 }
