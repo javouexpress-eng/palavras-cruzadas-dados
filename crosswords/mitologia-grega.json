@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "theme": "Mitologia Grega",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    { "text": "DIONISIO", "clue": "Deus do vinho e do teatro.", "rowStart": 1, "colStart": 1, "direction": "HORIZONTAL", "number": 1 },
+    { "text": "APOLO", "clue": "Deus da música, luz e profecias.", "rowStart": 5, "colStart": 5, "direction": "HORIZONTAL", "number": 2 },
+    { "text": "ARTEMIS", "clue": "Deusa da caça e da lua.", "rowStart": 7, "colStart": 4, "direction": "HORIZONTAL", "number": 3 },
+    { "text": "HADES", "clue": "Deus do submundo.", "rowStart": 9, "colStart": 6, "direction": "HORIZONTAL", "number": 4 },
+    { "text": "ADONIS", "clue": "Jovem de grande beleza, amado por Afrodite.", "rowStart": 0, "colStart": 1, "direction": "VERTICAL", "number": 5 },
+    { "text": "ORFEU", "clue": "Poeta e músico que desceu ao Hades.", "rowStart": 1, "colStart": 3, "direction": "VERTICAL", "number": 6 },
+    { "text": "MINOTAURO", "clue": "Criatura do Labirinto de Creta.", "rowStart": 0, "colStart": 5, "direction": "VERTICAL", "number": 7 },
+    { "text": "AFRODITE", "clue": "Deusa do amor e da beleza.", "rowStart": 2, "colStart": 9, "direction": "VERTICAL", "number": 8 }
+  ]
+}

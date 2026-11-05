@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "theme": "Mentes Brilhantes",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    { "text": "MARIE", "clue": "Pesquisou radioatividade e ganhou dois Nobel.", "rowStart": 0, "colStart": 5, "direction": "HORIZONTAL", "number": 1 },
+    { "text": "NEWTON", "clue": "Criou as leis da gravidade e do movimento.", "rowStart": 2, "colStart": 5, "direction": "HORIZONTAL", "number": 2 },
+    { "text": "FREUD", "clue": "Pai da psicanálise e do estudo do inconsciente.", "rowStart": 4, "colStart": 3, "direction": "HORIZONTAL", "number": 3 },
+    { "text": "TESLA", "clue": "Inventor da corrente alternada.", "rowStart": 6, "colStart": 1, "direction": "HORIZONTAL", "number": 4 },
+    { "text": "DUMONT", "clue": "Brasileiro chamado de pai da aviação.", "rowStart": 1, "colStart": 1, "direction": "VERTICAL", "number": 5 },
+    { "text": "FISON", "clue": "Químico britânico ligado a corantes.", "rowStart": 4, "colStart": 3, "direction": "VERTICAL", "number": 6 },
+    { "text": "MANDELA", "clue": "Líder contra o Apartheid na África do Sul.", "rowStart": 0, "colStart": 5, "direction": "VERTICAL", "number": 7 },
+    { "text": "DARWIN", "clue": "Propôs a teoria da evolução.", "rowStart": 4, "colStart": 7, "direction": "VERTICAL", "number": 8 }
+  ]
+}
