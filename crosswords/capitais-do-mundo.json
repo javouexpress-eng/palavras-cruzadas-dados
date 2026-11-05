@@ -1,0 +1,72 @@
+{
+  "id": 13,
+  "theme": "Capitais do Mundo",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "MADRI",
+      "clue": "Capital da Espanha.",
+      "rowStart": 1,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "LISBOA",
+      "clue": "Capital de Portugal.",
+      "rowStart": 2,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "BRASILIA",
+      "clue": "Capital do Brasil.",
+      "rowStart": 2,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "CAIRO",
+      "clue": "Capital do Egito, próxima às pirâmides de Gizé.",
+      "rowStart": 4,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "LONDRES",
+      "clue": "Capital da Inglaterra, às margens do rio Tâmisa.",
+      "rowStart": 5,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "TOQUIO",
+      "clue": "Capital do Japão.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "ROMA",
+      "clue": "Capital da Itália, conhecida como a Cidade Eterna.",
+      "rowStart": 9,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "PARIS",
+      "clue": "Capital da França, conhecida pela Torre Eiffel.",
+      "rowStart": 11,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

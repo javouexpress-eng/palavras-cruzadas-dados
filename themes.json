@@ -8,5 +8,7 @@
   { "slug": "oceano", "theme": "Oceano" },
   { "slug": "profissoes", "theme": "Profissões" },
   { "slug": "filosofia", "theme": "Filosofia" },
-  { "slug": "elementos-quimicos", "theme": "Elementos Químicos" }
+  { "slug": "elementos-quimicos", "theme": "Elementos Químicos" },
+  { "slug": "frutas", "theme": "Frutas" },
+  { "slug": "capitais-do-mundo", "theme": "Capitais do Mundo" }
 ]
