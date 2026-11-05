@@ -7,66 +7,66 @@
     {
       "text": "BRASIL",
       "clue": "Maior país da América do Sul.",
-      "rowStart": 0,
-      "colStart": 2,
-      "direction": "HORIZONTAL",
+      "rowStart": 1,
+      "colStart": 4,
+      "direction": "VERTICAL",
       "number": 1
     },
     {
-      "text": "ALEMANHA",
-      "clue": "País europeu da Oktoberfest.",
-      "rowStart": 0,
-      "colStart": 4,
+      "text": "RUANDA",
+      "clue": "País africano conhecido pelos gorilas-da-montanha.",
+      "rowStart": 1,
+      "colStart": 11,
       "direction": "VERTICAL",
       "number": 2
     },
     {
-      "text": "INDIA",
-      "clue": "Segundo país mais populoso do mundo.",
-      "rowStart": 0,
+      "text": "ALEMANHA",
+      "clue": "País europeu conhecido pela Oktoberfest.",
+      "rowStart": 3,
       "colStart": 6,
       "direction": "VERTICAL",
       "number": 3
     },
     {
-      "text": "CHILE",
-      "clue": "País estreito entre os Andes e o Pacífico.",
-      "rowStart": 2,
-      "colStart": 0,
+      "text": "ANGOLA",
+      "clue": "País africano de língua portuguesa, ex-colônia de Portugal.",
+      "rowStart": 3,
+      "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 4
-    },
-    {
-      "text": "COLOMBIA",
-      "clue": "Vizinho do Brasil, famoso pelo café.",
-      "rowStart": 2,
-      "colStart": 0,
-      "direction": "VERTICAL",
-      "number": 4
+      "number": 3
     },
     {
       "text": "CATAR",
       "clue": "Sede da Copa do Mundo de 2022.",
-      "rowStart": 4,
-      "colStart": 3,
+      "rowStart": 5,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "COLOMBIA",
+      "clue": "Vizinho do Brasil, famoso pela produção de café.",
+      "rowStart": 6,
+      "colStart": 2,
       "direction": "HORIZONTAL",
       "number": 5
     },
     {
-      "text": "RUANDA",
-      "clue": "País africano conhecido pelos gorilas.",
-      "rowStart": 4,
-      "colStart": 7,
+      "text": "CHILE",
+      "clue": "País estreito entre os Andes e o Oceano Pacífico.",
+      "rowStart": 6,
+      "colStart": 2,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 5
     },
     {
-      "text": "ANGOLA",
-      "clue": "País africano de língua portuguesa.",
-      "rowStart": 7,
-      "colStart": 6,
+      "text": "INDIA",
+      "clue": "País mais populoso do mundo.",
+      "rowStart": 8,
+      "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 6
     }
   ]
 }

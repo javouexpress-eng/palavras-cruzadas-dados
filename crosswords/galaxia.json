@@ -5,68 +5,84 @@
   "cols": 12,
   "words": [
     {
-      "text": "CASSIOPEIA",
-      "clue": "Constelação em forma de 'W'",
-      "rowStart": 1,
-      "colStart": 1,
-      "direction": "HORIZONTAL",
+      "text": "JUPITER",
+      "clue": "Maior planeta do Sistema Solar.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "VERTICAL",
       "number": 1
     },
     {
-      "text": "ORION",
-      "clue": "Constelação do caçador",
-      "rowStart": 1,
-      "colStart": 6,
-      "direction": "VERTICAL",
+      "text": "LEAO",
+      "clue": "Constelação do zodíaco com a estrela Regulus.",
+      "rowStart": 0,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
       "number": 2
     },
     {
       "text": "ANDROMEDA",
-      "clue": "Galáxia vizinha da Via Láctea",
-      "rowStart": 4,
-      "colStart": 2,
-      "direction": "HORIZONTAL",
+      "clue": "Galáxia vizinha mais próxima da Via Láctea.",
+      "rowStart": 0,
+      "colStart": 4,
+      "direction": "VERTICAL",
       "number": 3
     },
     {
-      "text": "DOURADO",
-      "clue": "Constelação austral (Dorado)",
-      "rowStart": 4,
-      "colStart": 9,
+      "text": "CASSIOPEIA",
+      "clue": "Constelação em forma de 'W', visível no hemisfério norte.",
+      "rowStart": 1,
+      "colStart": 11,
       "direction": "VERTICAL",
       "number": 4
     },
     {
-      "text": "LEAO",
-      "clue": "Constelação do zodíaco",
-      "rowStart": 6,
-      "colStart": 4,
+      "text": "CENTAURO",
+      "clue": "Maior constelação do hemisfério sul.",
+      "rowStart": 2,
+      "colStart": 6,
       "direction": "VERTICAL",
       "number": 5
     },
     {
+      "text": "COMETA",
+      "clue": "Corpo celeste de gelo e poeira que forma uma cauda ao se aproximar do Sol.",
+      "rowStart": 2,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
       "text": "TOURO",
-      "clue": "Constelação do zodíaco",
-      "rowStart": 6,
-      "colStart": 10,
-      "direction": "VERTICAL",
+      "clue": "Constelação do zodíaco que abriga as Plêiades.",
+      "rowStart": 4,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
       "number": 6
     },
     {
-      "text": "CENTAURO",
-      "clue": "Maior constelação do hemisfério sul",
-      "rowStart": 7,
-      "colStart": 3,
-      "direction": "HORIZONTAL",
+      "text": "DOURADO",
+      "clue": "Constelação austral que abriga a Grande Nuvem de Magalhães.",
+      "rowStart": 5,
+      "colStart": 8,
+      "direction": "VERTICAL",
       "number": 7
     },
     {
       "text": "PEGASO",
-      "clue": "Constelação do cavalo alado",
-      "rowStart": 11,
-      "colStart": 2,
+      "clue": "Constelação que representa o cavalo alado.",
+      "rowStart": 6,
+      "colStart": 3,
       "direction": "HORIZONTAL",
       "number": 8
+    },
+    {
+      "text": "ORION",
+      "clue": "Constelação do caçador, uma das mais fáceis de identificar.",
+      "rowStart": 11,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 9
     }
   ]
 }

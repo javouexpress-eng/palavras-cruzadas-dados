@@ -5,68 +5,84 @@
   "cols": 12,
   "words": [
     {
-      "text": "MARIE",
-      "clue": "Pesquisou radioatividade e ganhou dois Nobel.",
-      "rowStart": 0,
-      "colStart": 5,
-      "direction": "HORIZONTAL",
-      "number": 1
-    },
-    {
       "text": "MANDELA",
-      "clue": "Líder contra o Apartheid na África do Sul.",
+      "clue": "Líder sul-africano que lutou contra o Apartheid.",
       "rowStart": 0,
-      "colStart": 5,
+      "colStart": 11,
       "direction": "VERTICAL",
       "number": 1
     },
     {
-      "text": "DUMONT",
-      "clue": "Brasileiro chamado de pai da aviação.",
+      "text": "DARWIN",
+      "clue": "Naturalista que propôs a teoria da evolução das espécies.",
       "rowStart": 1,
-      "colStart": 1,
+      "colStart": 4,
       "direction": "VERTICAL",
       "number": 2
     },
     {
-      "text": "NEWTON",
-      "clue": "Criou as leis da gravidade e do movimento.",
-      "rowStart": 2,
-      "colStart": 5,
+      "text": "DUMONT",
+      "clue": "Brasileiro considerado o pai da aviação.",
+      "rowStart": 1,
+      "colStart": 4,
       "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "GALILEU",
+      "clue": "Astrônomo italiano que defendeu o modelo heliocêntrico.",
+      "rowStart": 3,
+      "colStart": 8,
+      "direction": "VERTICAL",
       "number": 3
     },
     {
-      "text": "FREUD",
-      "clue": "Pai da psicanálise e do estudo do inconsciente.",
+      "text": "MARIE",
+      "clue": "Pesquisou radioatividade e ganhou dois prêmios Nobel.",
       "rowStart": 4,
-      "colStart": 3,
+      "colStart": 7,
       "direction": "HORIZONTAL",
       "number": 4
     },
     {
-      "text": "FISON",
-      "clue": "Químico britânico ligado a corantes.",
-      "rowStart": 4,
-      "colStart": 3,
-      "direction": "VERTICAL",
-      "number": 4
+      "text": "EINSTEIN",
+      "clue": "Físico que formulou a teoria da relatividade.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 5
     },
     {
-      "text": "DARWIN",
-      "clue": "Propôs a teoria da evolução.",
-      "rowStart": 4,
-      "colStart": 7,
+      "text": "EDISON",
+      "clue": "Inventor americano ligado à popularização da lâmpada elétrica.",
+      "rowStart": 6,
+      "colStart": 2,
       "direction": "VERTICAL",
       "number": 5
     },
     {
-      "text": "TESLA",
-      "clue": "Inventor da corrente alternada.",
-      "rowStart": 6,
-      "colStart": 1,
+      "text": "FREUD",
+      "clue": "Pai da psicanálise e do estudo do inconsciente.",
+      "rowStart": 8,
+      "colStart": 6,
       "direction": "HORIZONTAL",
       "number": 6
+    },
+    {
+      "text": "TESLA",
+      "clue": "Inventor e engenheiro, pioneiro da corrente alternada.",
+      "rowStart": 9,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "NEWTON",
+      "clue": "Formulou as leis da gravidade e do movimento.",
+      "rowStart": 11,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 8
     }
   ]
 }

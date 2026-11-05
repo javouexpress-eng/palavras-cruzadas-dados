@@ -5,66 +5,66 @@
   "cols": 12,
   "words": [
     {
-      "text": "ADONIS",
-      "clue": "Jovem de grande beleza, amado por Afrodite.",
-      "rowStart": 0,
-      "colStart": 1,
+      "text": "ORFEU",
+      "clue": "Poeta e músico que desceu ao Hades para resgatar Eurídice.",
+      "rowStart": 1,
+      "colStart": 10,
       "direction": "VERTICAL",
       "number": 1
     },
     {
-      "text": "MINOTAURO",
-      "clue": "Criatura do Labirinto de Creta.",
-      "rowStart": 0,
-      "colStart": 5,
+      "text": "ADONIS",
+      "clue": "Jovem de grande beleza, amado por Afrodite.",
+      "rowStart": 3,
+      "colStart": 3,
       "direction": "VERTICAL",
       "number": 2
     },
     {
-      "text": "DIONISIO",
-      "clue": "Deus do vinho e do teatro.",
-      "rowStart": 1,
-      "colStart": 1,
-      "direction": "HORIZONTAL",
+      "text": "ARTEMIS",
+      "clue": "Deusa da caça e da lua, irmã de Apolo.",
+      "rowStart": 4,
+      "colStart": 5,
+      "direction": "VERTICAL",
       "number": 3
     },
     {
-      "text": "ORFEU",
-      "clue": "Poeta e músico que desceu ao Hades.",
-      "rowStart": 1,
-      "colStart": 3,
-      "direction": "VERTICAL",
+      "text": "HADES",
+      "clue": "Deus do submundo e dos mortos.",
+      "rowStart": 4,
+      "colStart": 7,
+      "direction": "HORIZONTAL",
       "number": 4
     },
     {
       "text": "AFRODITE",
       "clue": "Deusa do amor e da beleza.",
-      "rowStart": 2,
-      "colStart": 9,
+      "rowStart": 4,
+      "colStart": 8,
       "direction": "VERTICAL",
       "number": 5
     },
     {
-      "text": "APOLO",
-      "clue": "Deus da música, luz e profecias.",
-      "rowStart": 5,
-      "colStart": 5,
+      "text": "MINOTAURO",
+      "clue": "Criatura metade homem, metade touro, presa no Labirinto de Creta.",
+      "rowStart": 6,
+      "colStart": 1,
       "direction": "HORIZONTAL",
       "number": 6
     },
     {
-      "text": "ARTEMIS",
-      "clue": "Deusa da caça e da lua.",
+      "text": "APOLO",
+      "clue": "Deus da música, da luz e das profecias.",
       "rowStart": 7,
-      "colStart": 4,
-      "direction": "HORIZONTAL",
+      "colStart": 11,
+      "direction": "VERTICAL",
       "number": 7
     },
     {
-      "text": "HADES",
-      "clue": "Deus do submundo.",
+      "text": "DIONISIO",
+      "clue": "Deus do vinho, da festa e do teatro.",
       "rowStart": 9,
-      "colStart": 6,
+      "colStart": 4,
       "direction": "HORIZONTAL",
       "number": 8
     }
