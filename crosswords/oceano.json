@@ -1,0 +1,72 @@
+{
+  "id": 8,
+  "theme": "Oceano",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "BALEIA",
+      "clue": "Maior animal do planeta, vive nos oceanos.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "GOLFINHO",
+      "clue": "Mamífero marinho muito inteligente e brincalhão.",
+      "rowStart": 1,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "ESTRELA",
+      "clue": "Animal marinho em forma de estrela, encontrado em poças de maré.",
+      "rowStart": 3,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "TUBARAO",
+      "clue": "Peixe predador temido, famoso pelos dentes afiados.",
+      "rowStart": 3,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "LULA",
+      "clue": "Molusco marinho que solta tinta para se defender.",
+      "rowStart": 5,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "POLVO",
+      "clue": "Animal marinho de oito tentáculos e grande inteligência.",
+      "rowStart": 5,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "CARANGUEJO",
+      "clue": "Crustáceo que anda de lado.",
+      "rowStart": 6,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "CORAL",
+      "clue": "Forma recifes coloridos no fundo do mar.",
+      "rowStart": 8,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

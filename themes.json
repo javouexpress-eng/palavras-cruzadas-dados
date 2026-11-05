@@ -4,5 +4,7 @@
   { "slug": "mitologia-grega", "theme": "Mitologia Grega" },
   { "slug": "mentes-brilhantes", "theme": "Mentes Brilhantes" },
   { "slug": "animais", "theme": "Animais" },
-  { "slug": "esportes", "theme": "Esportes" }
+  { "slug": "esportes", "theme": "Esportes" },
+  { "slug": "oceano", "theme": "Oceano" },
+  { "slug": "profissoes", "theme": "Profissões" }
 ]

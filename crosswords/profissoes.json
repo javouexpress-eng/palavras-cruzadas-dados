@@ -1,0 +1,72 @@
+{
+  "id": 9,
+  "theme": "Profissões",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "BOMBEIRO",
+      "clue": "Combate incêndios e resgata pessoas em perigo.",
+      "rowStart": 0,
+      "colStart": 1,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "COZINHEIRO",
+      "clue": "Prepara pratos e refeições em restaurantes.",
+      "rowStart": 1,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "MEDICO",
+      "clue": "Profissional que cuida da saúde e trata doenças.",
+      "rowStart": 3,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "DENTISTA",
+      "clue": "Cuida da saúde dos dentes e da boca.",
+      "rowStart": 3,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "ENGENHEIRO",
+      "clue": "Projeta e constrói pontes, prédios e máquinas.",
+      "rowStart": 4,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "PILOTO",
+      "clue": "Conduz aviões no céu.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "PROFESSOR",
+      "clue": "Ensina e educa os alunos na escola.",
+      "rowStart": 8,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "ADVOGADO",
+      "clue": "Defende pessoas na Justiça.",
+      "rowStart": 10,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}
