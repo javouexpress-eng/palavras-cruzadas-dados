@@ -1,0 +1,72 @@
+{
+  "id": 12,
+  "theme": "Termos Jurídicos",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "RECURSO",
+      "clue": "Pedido para que uma decisao seja revista por instancia superior.",
+      "rowStart": 0,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "USUCAPIAO",
+      "clue": "Forma de adquirir propriedade pelo uso prolongado.",
+      "rowStart": 1,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "SENTENCA",
+      "clue": "Decisao final proferida por um juiz.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "TESTAMENTO",
+      "clue": "Documento que define a partilha de bens apos a morte.",
+      "rowStart": 2,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "HIPOTECA",
+      "clue": "Garantia de divida que recai sobre um imovel.",
+      "rowStart": 3,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "LIMINAR",
+      "clue": "Decisao provisoria tomada antes do julgamento final.",
+      "rowStart": 4,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "MANDADO",
+      "clue": "Ordem judicial para busca, prisao ou seguranca.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "HERANCA",
+      "clue": "Conjunto de bens deixados por alguem que falece.",
+      "rowStart": 10,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

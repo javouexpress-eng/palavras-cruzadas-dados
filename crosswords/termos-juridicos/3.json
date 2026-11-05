@@ -1,0 +1,88 @@
+{
+  "id": 12,
+  "theme": "Termos Jurídicos",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "CONTRATO",
+      "clue": "Acordo formal entre partes que gera obrigacoes.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "COMPETENCIA",
+      "clue": "Limite de atuacao legal de um juiz ou tribunal.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "NOTIFICACAO",
+      "clue": "Comunicacao formal que da ciencia de um ato a alguem.",
+      "rowStart": 0,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "INDENIZACAO",
+      "clue": "Pagamento devido para reparar um dano causado.",
+      "rowStart": 0,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "COMODATO",
+      "clue": "Emprestimo gratuito de um bem que deve ser devolvido.",
+      "rowStart": 1,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "TUTELA",
+      "clue": "Responsabilidade legal por um menor sem os pais.",
+      "rowStart": 2,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "FIANCA",
+      "clue": "Valor pago para garantir a liberdade provisoria de um preso.",
+      "rowStart": 4,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "PERITO",
+      "clue": "Especialista que avalia provas tecnicas num processo.",
+      "rowStart": 5,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "CURATELA",
+      "clue": "Representacao legal de quem nao pode gerir a propria vida.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "DOACAO",
+      "clue": "Transferencia gratuita de um bem a outra pessoa.",
+      "rowStart": 10,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 9
+    }
+  ]
+}

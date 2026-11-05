@@ -1,0 +1,72 @@
+{
+  "id": 12,
+  "theme": "Termos Jurídicos",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "DESPEJO",
+      "clue": "Acao judicial para retirar um inquilino do imovel.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "JURISDICAO",
+      "clue": "Poder do Estado de aplicar a lei e julgar conflitos.",
+      "rowStart": 0,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "CUSTODIA",
+      "clue": "Guarda de uma pessoa presa a disposicao da Justica.",
+      "rowStart": 0,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "PRESCRICAO",
+      "clue": "Perda do direito de agir judicialmente pelo decurso do tempo.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "USUFRUTO",
+      "clue": "Direito de usar e tirar proveito de um bem alheio.",
+      "rowStart": 4,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "PENHORA",
+      "clue": "Apreensao judicial de bens para garantir uma divida.",
+      "rowStart": 5,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "EDITAL",
+      "clue": "Comunicado publico oficial, usado tambem em concursos e leiloes.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "ALVARA",
+      "clue": "Autorizacao oficial para exercer uma atividade ou construir.",
+      "rowStart": 6,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 8
+    }
+  ]
+}

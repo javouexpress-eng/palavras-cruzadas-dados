@@ -1,0 +1,72 @@
+{
+  "id": 14,
+  "theme": "Taxonomia Biológica",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "CARNIVORO",
+      "clue": "Animal que se alimenta de carne.",
+      "rowStart": 0,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "ECOSSISTEMA",
+      "clue": "Conjunto formado pelos seres vivos e o ambiente onde vivem.",
+      "rowStart": 0,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "HERBIVORO",
+      "clue": "Animal que se alimenta apenas de plantas.",
+      "rowStart": 2,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "SIMBIOSE",
+      "clue": "Relacao de beneficio mutuo entre duas especies diferentes.",
+      "rowStart": 4,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "MUTACAO",
+      "clue": "Alteracao no material genetico de um ser vivo.",
+      "rowStart": 4,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "METAMORFOSE",
+      "clue": "Transformacao do corpo de um animal durante seu desenvolvimento.",
+      "rowStart": 6,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "FOSSIL",
+      "clue": "Resto ou vestigio preservado de um ser vivo antigo.",
+      "rowStart": 6,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "HABITAT",
+      "clue": "Ambiente natural onde um ser vivo habita.",
+      "rowStart": 10,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

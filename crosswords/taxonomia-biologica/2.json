@@ -1,0 +1,88 @@
+{
+  "id": 14,
+  "theme": "Taxonomia Biológica",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "INVERTEBRADO",
+      "clue": "Animal que nao possui coluna vertebral.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "VERTEBRADO",
+      "clue": "Animal que possui coluna vertebral.",
+      "rowStart": 0,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "EUCARIONTE",
+      "clue": "Organismo cujas celulas possuem nucleo definido.",
+      "rowStart": 0,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "MAMIFERO",
+      "clue": "Animal que amamenta os filhotes.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "ANFIBIO",
+      "clue": "Animal que vive entre a agua e a terra.",
+      "rowStart": 3,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "ARTROPODE",
+      "clue": "Animal invertebrado de patas articuladas, como os insetos.",
+      "rowStart": 3,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "CORDADO",
+      "clue": "Grupo de animais que possui notocorda em algum estagio da vida.",
+      "rowStart": 5,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "MOLUSCO",
+      "clue": "Animal de corpo mole, como o caracol e a lula.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "REPTIL",
+      "clue": "Animal de sangue frio com escamas, como a cobra.",
+      "rowStart": 8,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 9
+    },
+    {
+      "text": "PROCARIONTE",
+      "clue": "Organismo cujas celulas nao possuem nucleo definido.",
+      "rowStart": 11,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 10
+    }
+  ]
+}
