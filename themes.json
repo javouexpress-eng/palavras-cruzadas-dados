@@ -2,5 +2,6 @@
   { "slug": "galaxia", "theme": "Galáxia" },
   { "slug": "paises", "theme": "Países" },
   { "slug": "mitologia-grega", "theme": "Mitologia Grega" },
-  { "slug": "mentes-brilhantes", "theme": "Mentes Brilhantes" }
+  { "slug": "mentes-brilhantes", "theme": "Mentes Brilhantes" },
+  { "slug": "animais", "theme": "Animais" }
 ]
