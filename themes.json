@@ -6,5 +6,7 @@
   { "slug": "animais", "theme": "Animais" },
   { "slug": "esportes", "theme": "Esportes" },
   { "slug": "oceano", "theme": "Oceano" },
-  { "slug": "profissoes", "theme": "Profissões" }
+  { "slug": "profissoes", "theme": "Profissões" },
+  { "slug": "filosofia", "theme": "Filosofia" },
+  { "slug": "elementos-quimicos", "theme": "Elementos Químicos" }
 ]

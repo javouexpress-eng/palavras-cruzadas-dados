@@ -1,0 +1,88 @@
+{
+  "id": 10,
+  "theme": "Filosofia",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "METAFISICA",
+      "clue": "Ramo da filosofia que estuda a natureza da realidade.",
+      "rowStart": 0,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "SOCRATES",
+      "clue": "Filósofo grego que dizia só saber que nada sabia.",
+      "rowStart": 1,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "LOGICA",
+      "clue": "Ramo da filosofia que estuda o raciocínio válido.",
+      "rowStart": 3,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "NIETZSCHE",
+      "clue": "Filósofo alemão que escreveu 'Assim Falou Zaratustra'.",
+      "rowStart": 3,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "ETICA",
+      "clue": "Ramo da filosofia que estuda a moral e os valores.",
+      "rowStart": 3,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "KANT",
+      "clue": "Filósofo alemão autor da 'Crítica da Razão Pura'.",
+      "rowStart": 5,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "HEGEL",
+      "clue": "Filósofo alemão criador da dialética.",
+      "rowStart": 5,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "ARISTOTELES",
+      "clue": "Discípulo de Platão, considerado o pai da lógica.",
+      "rowStart": 6,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "PLATAO",
+      "clue": "Discípulo de Sócrates, autor de 'A República'.",
+      "rowStart": 9,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 9
+    },
+    {
+      "text": "DESCARTES",
+      "clue": "Filósofo francês autor da frase 'Penso, logo existo'.",
+      "rowStart": 11,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 10
+    }
+  ]
+}

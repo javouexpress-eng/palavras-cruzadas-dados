@@ -1,0 +1,88 @@
+{
+  "id": 11,
+  "theme": "Elementos Químicos",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "POTASSIO",
+      "clue": "Elemento essencial encontrado em bananas e vegetais.",
+      "rowStart": 0,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "PRATA",
+      "clue": "Metal precioso usado em joias, símbolo químico Ag.",
+      "rowStart": 0,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "NITROGENIO",
+      "clue": "Elemento que forma cerca de 78% da atmosfera terrestre.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "SODIO",
+      "clue": "Metal muito reativo, presente no sal de cozinha.",
+      "rowStart": 4,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "OXIGENIO",
+      "clue": "Elemento essencial para a respiração dos seres vivos.",
+      "rowStart": 4,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "FERRO",
+      "clue": "Metal presente na hemoglobina do sangue.",
+      "rowStart": 5,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "HIDROGENIO",
+      "clue": "Elemento mais leve e abundante do universo.",
+      "rowStart": 6,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "OURO",
+      "clue": "Metal precioso, símbolo químico Au.",
+      "rowStart": 6,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "CALCIO",
+      "clue": "Elemento fundamental para ossos e dentes.",
+      "rowStart": 9,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "CARBONO",
+      "clue": "Elemento base de toda a química orgânica.",
+      "rowStart": 11,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 9
+    }
+  ]
+}
