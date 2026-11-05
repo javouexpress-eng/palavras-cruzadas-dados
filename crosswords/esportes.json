@@ -5,64 +5,64 @@
   "cols": 12,
   "words": [
     {
-      "text": "FUTEBOL",
-      "clue": "Esporte mais popular do Brasil, jogado com os pés.",
-      "rowStart": 0,
-      "colStart": 0,
-      "direction": "HORIZONTAL",
-      "number": 1
-    },
-    {
-      "text": "TENIS",
-      "clue": "Esporte de raquete jogado em quadra.",
+      "text": "BOXE",
+      "clue": "Esporte de combate que usa socos.",
       "rowStart": 1,
-      "colStart": 7,
-      "direction": "HORIZONTAL",
-      "number": 2
-    },
-    {
-      "text": "NATACAO",
-      "clue": "Esporte praticado na piscina ou no mar.",
-      "rowStart": 2,
-      "colStart": 0,
-      "direction": "HORIZONTAL",
-      "number": 3
-    },
-    {
-      "text": "BASQUETE",
-      "clue": "Esporte jogado com cestas, muito popular nos EUA.",
-      "rowStart": 4,
-      "colStart": 5,
+      "colStart": 1,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 1
     },
     {
       "text": "CICLISMO",
       "clue": "Esporte praticado de bicicleta.",
+      "rowStart": 1,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "GINASTICA",
+      "clue": "Esporte que envolve flexibilidade e acrobacias.",
+      "rowStart": 3,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "TENIS",
+      "clue": "Esporte de raquete jogado em quadra.",
       "rowStart": 4,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "VOLEI",
+      "clue": "Esporte de rede, jogado com as mãos.",
+      "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
       "number": 5
     },
     {
-      "text": "GINASTICA",
-      "clue": "Esporte que envolve flexibilidade e acrobacias.",
+      "text": "NATACAO",
+      "clue": "Esporte praticado na piscina ou no mar.",
       "rowStart": 6,
-      "colStart": 1,
+      "colStart": 2,
       "direction": "HORIZONTAL",
       "number": 6
     },
     {
-      "text": "VOLEI",
-      "clue": "Esporte de rede, jogado com as mãos.",
-      "rowStart": 9,
-      "colStart": 2,
+      "text": "FUTEBOL",
+      "clue": "Esporte mais popular do Brasil, jogado com os pés.",
+      "rowStart": 8,
+      "colStart": 5,
       "direction": "HORIZONTAL",
       "number": 7
     },
     {
-      "text": "BOXE",
-      "clue": "Esporte de combate que usa socos.",
+      "text": "BASQUETE",
+      "clue": "Esporte jogado com cestas, muito popular nos EUA.",
       "rowStart": 11,
       "colStart": 2,
       "direction": "HORIZONTAL",
