@@ -1,14 +1,14 @@
 [
-  { "slug": "galaxia", "theme": "Galáxia" },
-  { "slug": "paises", "theme": "Países" },
-  { "slug": "mitologia-grega", "theme": "Mitologia Grega" },
-  { "slug": "mentes-brilhantes", "theme": "Mentes Brilhantes" },
-  { "slug": "animais", "theme": "Animais" },
-  { "slug": "esportes", "theme": "Esportes" },
-  { "slug": "oceano", "theme": "Oceano" },
-  { "slug": "profissoes", "theme": "Profissões" },
-  { "slug": "filosofia", "theme": "Filosofia" },
-  { "slug": "elementos-quimicos", "theme": "Elementos Químicos" },
-  { "slug": "frutas", "theme": "Frutas" },
-  { "slug": "capitais-do-mundo", "theme": "Capitais do Mundo" }
+  { "slug": "animais", "theme": "Animais", "difficulty": "facil" },
+  { "slug": "profissoes", "theme": "Profissões", "difficulty": "facil" },
+  { "slug": "oceano", "theme": "Oceano", "difficulty": "facil" },
+  { "slug": "frutas", "theme": "Frutas", "difficulty": "facil" },
+  { "slug": "esportes", "theme": "Esportes", "difficulty": "medio" },
+  { "slug": "paises", "theme": "Países", "difficulty": "medio" },
+  { "slug": "mitologia-grega", "theme": "Mitologia Grega", "difficulty": "medio" },
+  { "slug": "capitais-do-mundo", "theme": "Capitais do Mundo", "difficulty": "medio" },
+  { "slug": "galaxia", "theme": "Galáxia", "difficulty": "dificil" },
+  { "slug": "mentes-brilhantes", "theme": "Mentes Brilhantes", "difficulty": "dificil" },
+  { "slug": "filosofia", "theme": "Filosofia", "difficulty": "dificil" },
+  { "slug": "elementos-quimicos", "theme": "Elementos Químicos", "difficulty": "dificil" }
 ]
