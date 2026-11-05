@@ -1,0 +1,72 @@
+{
+  "id": 8,
+  "theme": "Oceano",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "PINGUIM",
+      "clue": "Ave que não voa, excelente nadadora dos mares frios.",
+      "rowStart": 1,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "RECIFE",
+      "clue": "Formação rochosa ou de coral próxima à superfície do mar.",
+      "rowStart": 2,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "MARISCO",
+      "clue": "Nome genérico de moluscos comestíveis do mar.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "ANCORA",
+      "clue": "Peça de metal usada para fixar um navio no fundo.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "OSTRA",
+      "clue": "Molusco que pode produzir pérolas.",
+      "rowStart": 6,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "FAROL",
+      "clue": "Torre com luz que orienta embarcações à noite.",
+      "rowStart": 9,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "PORTO",
+      "clue": "Local onde navios atracam para carga e descarga.",
+      "rowStart": 9,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "NAVIO",
+      "clue": "Embarcação grande usada para transporte marítimo.",
+      "rowStart": 11,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 5,
+  "theme": "Animais",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "TARTARUGA",
+      "clue": "Réptil de casco rígido, vive muitos anos.",
+      "rowStart": 1,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "JACARE",
+      "clue": "Réptil semelhante ao crocodilo, comum no Brasil.",
+      "rowStart": 1,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "PAPAGAIO",
+      "clue": "Ave colorida capaz de imitar a fala humana.",
+      "rowStart": 2,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "ONCA",
+      "clue": "Maior felino das Américas, pelagem pintada.",
+      "rowStart": 2,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "CAMELO",
+      "clue": "Animal do deserto com corcovas nas costas.",
+      "rowStart": 4,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "FORMIGA",
+      "clue": "Inseto social que vive em colônias organizadas.",
+      "rowStart": 5,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "MORCEGO",
+      "clue": "Único mamífero capaz de voar de verdade.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "BORBOLETA",
+      "clue": "Inseto de asas coloridas, antes era lagarta.",
+      "rowStart": 11,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

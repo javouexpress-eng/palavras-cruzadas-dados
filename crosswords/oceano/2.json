@@ -1,0 +1,72 @@
+{
+  "id": 8,
+  "theme": "Oceano",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "HIPOCAMPO",
+      "clue": "Nome científico do cavalo-marinho, peixe de corpo curvado.",
+      "rowStart": 1,
+      "colStart": 1,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "MARE",
+      "clue": "Subida e descida periódica do nível do mar.",
+      "rowStart": 3,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "ONDA",
+      "clue": "Movimento da água provocado pelo vento no mar.",
+      "rowStart": 4,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "AMEIJOA",
+      "clue": "Molusco bivalve encontrado em areias e recifes.",
+      "rowStart": 4,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "ALGA",
+      "clue": "Planta aquática que serve de alimento a vários animais.",
+      "rowStart": 4,
+      "colStart": 7,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "PEIXE",
+      "clue": "Animal aquático que respira por brânquias.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "FOCA",
+      "clue": "Mamífero marinho de nadadeiras, vive em águas frias.",
+      "rowStart": 7,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "AREIA",
+      "clue": "Compõe a praia, formada por grãos de rocha e conchas.",
+      "rowStart": 10,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

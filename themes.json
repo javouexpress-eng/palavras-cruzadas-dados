@@ -1,14 +1,14 @@
 [
-  { "slug": "animais", "theme": "Animais", "difficulty": "facil" },
-  { "slug": "profissoes", "theme": "Profissões", "difficulty": "facil" },
-  { "slug": "oceano", "theme": "Oceano", "difficulty": "facil" },
-  { "slug": "frutas", "theme": "Frutas", "difficulty": "facil" },
-  { "slug": "esportes", "theme": "Esportes", "difficulty": "medio" },
-  { "slug": "paises", "theme": "Países", "difficulty": "medio" },
-  { "slug": "mitologia-grega", "theme": "Mitologia Grega", "difficulty": "medio" },
-  { "slug": "capitais-do-mundo", "theme": "Capitais do Mundo", "difficulty": "medio" },
-  { "slug": "galaxia", "theme": "Galáxia", "difficulty": "dificil" },
-  { "slug": "mentes-brilhantes", "theme": "Mentes Brilhantes", "difficulty": "dificil" },
-  { "slug": "filosofia", "theme": "Filosofia", "difficulty": "dificil" },
-  { "slug": "elementos-quimicos", "theme": "Elementos Químicos", "difficulty": "dificil" }
+  { "slug": "animais", "theme": "Animais", "difficulty": "facil", "phases": 3 },
+  { "slug": "profissoes", "theme": "Profissões", "difficulty": "facil", "phases": 1 },
+  { "slug": "oceano", "theme": "Oceano", "difficulty": "facil", "phases": 3 },
+  { "slug": "frutas", "theme": "Frutas", "difficulty": "facil", "phases": 1 },
+  { "slug": "esportes", "theme": "Esportes", "difficulty": "medio", "phases": 1 },
+  { "slug": "paises", "theme": "Países", "difficulty": "medio", "phases": 1 },
+  { "slug": "mitologia-grega", "theme": "Mitologia Grega", "difficulty": "medio", "phases": 1 },
+  { "slug": "capitais-do-mundo", "theme": "Capitais do Mundo", "difficulty": "medio", "phases": 1 },
+  { "slug": "galaxia", "theme": "Galáxia", "difficulty": "dificil", "phases": 1 },
+  { "slug": "mentes-brilhantes", "theme": "Mentes Brilhantes", "difficulty": "dificil", "phases": 1 },
+  { "slug": "filosofia", "theme": "Filosofia", "difficulty": "dificil", "phases": 1 },
+  { "slug": "elementos-quimicos", "theme": "Elementos Químicos", "difficulty": "dificil", "phases": 1 }
 ]
