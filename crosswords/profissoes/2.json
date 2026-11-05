@@ -1,0 +1,72 @@
+{
+  "id": 9,
+  "theme": "Profissões",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "ELETRICISTA",
+      "clue": "Profissional que instala e conserta redes elétricas.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "CABELEIREIRO",
+      "clue": "Profissional que corta e trata cabelos.",
+      "rowStart": 0,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "JORNALISTA",
+      "clue": "Profissional que apura e divulga notícias.",
+      "rowStart": 2,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "TRADUTOR",
+      "clue": "Profissional que traduz textos de um idioma para outro.",
+      "rowStart": 2,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "ENFERMEIRO",
+      "clue": "Profissional que cuida de pacientes junto aos médicos.",
+      "rowStart": 3,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "MOTORISTA",
+      "clue": "Profissional que dirige veículos para transporte.",
+      "rowStart": 6,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "FARMACEUTICO",
+      "clue": "Profissional responsável pela venda e orientação de remédios.",
+      "rowStart": 8,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "PEDREIRO",
+      "clue": "Profissional que constrói com tijolo e cimento.",
+      "rowStart": 10,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

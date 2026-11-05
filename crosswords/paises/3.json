@@ -1,0 +1,72 @@
+{
+  "id": 2,
+  "theme": "Países",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "TURQUIA",
+      "clue": "Pais que liga a Europa a Asia.",
+      "rowStart": 1,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "BOLIVIA",
+      "clue": "Pais sul-americano sem litoral.",
+      "rowStart": 2,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "MARROCOS",
+      "clue": "Pais do norte da Africa famoso pelos souks.",
+      "rowStart": 3,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "ARGENTINA",
+      "clue": "Pais vizinho do Brasil, famoso pelo tango e futebol.",
+      "rowStart": 3,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "NORUEGA",
+      "clue": "Pais escandinavo famoso pelos fiordes.",
+      "rowStart": 4,
+      "colStart": 1,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "SUECIA",
+      "clue": "Pais escandinavo conhecido pelo design e pela IKEA.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "PERU",
+      "clue": "Pais sul-americano, lar de Machu Picchu.",
+      "rowStart": 8,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "GRECIA",
+      "clue": "Pais europeu berco da civilizacao ocidental.",
+      "rowStart": 9,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

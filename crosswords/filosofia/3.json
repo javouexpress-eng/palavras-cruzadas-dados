@@ -1,0 +1,72 @@
+{
+  "id": 10,
+  "theme": "Filosofia",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "CETICISMO",
+      "clue": "Corrente que questiona a possibilidade de certeza absoluta.",
+      "rowStart": 0,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "MARXISMO",
+      "clue": "Corrente filosofica baseada nas ideias de Karl Marx.",
+      "rowStart": 0,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "DIALETICA",
+      "clue": "Metodo filosofico baseado no confronto de ideias opostas.",
+      "rowStart": 3,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "EMPIRISMO",
+      "clue": "Corrente que valoriza a experiencia como fonte do conhecimento.",
+      "rowStart": 3,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "CINISMO",
+      "clue": "Corrente filosofica grega que pregava viver segundo a natureza, rejeitando convencoes sociais.",
+      "rowStart": 4,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "UTILITARISMO",
+      "clue": "Corrente que julga acoes pelo bem-estar que produzem.",
+      "rowStart": 6,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "ONTOLOGIA",
+      "clue": "Ramo da filosofia que estuda o ser e a existencia.",
+      "rowStart": 8,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "IDEALISMO",
+      "clue": "Corrente que valoriza as ideias acima da materia.",
+      "rowStart": 11,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

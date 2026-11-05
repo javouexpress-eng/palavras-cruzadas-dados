@@ -1,0 +1,72 @@
+{
+  "id": 6,
+  "theme": "Frutas",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "FRAMBOESA",
+      "clue": "Fruta vermelha pequena, parente do morango.",
+      "rowStart": 0,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "JABUTICABA",
+      "clue": "Fruta preta brasileira que nasce direto no tronco.",
+      "rowStart": 1,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "TANGERINA",
+      "clue": "Fruta citrica facil de descascar, tambem chamada de mexerica.",
+      "rowStart": 2,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "MELAO",
+      "clue": "Fruta doce de polpa alaranjada ou esverdeada.",
+      "rowStart": 3,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "ROMA",
+      "clue": "Fruta com sementes vermelhas e suculentas por dentro.",
+      "rowStart": 5,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "PESSEGO",
+      "clue": "Fruta rosada de caroco, comum em compotas.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "PITAYA",
+      "clue": "Fruta exotica rosa ou amarela, tambem chamada fruta-do-dragao.",
+      "rowStart": 8,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "ACEROLA",
+      "clue": "Fruta pequena e vermelha, rica em vitamina C.",
+      "rowStart": 10,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

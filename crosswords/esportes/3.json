@@ -1,0 +1,72 @@
+{
+  "id": 7,
+  "theme": "Esportes",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "ESGRIMA",
+      "clue": "Esporte de combate com espadas.",
+      "rowStart": 1,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "POLO",
+      "clue": "Esporte jogado a cavalo com tacos e uma bola.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "MARATONA",
+      "clue": "Corrida de longa distancia, 42 km aproximadamente.",
+      "rowStart": 3,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "LUTA",
+      "clue": "Esporte de combate corpo a corpo.",
+      "rowStart": 4,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "SKATE",
+      "clue": "Esporte radical praticado sobre uma prancha com rodas.",
+      "rowStart": 4,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "CANOAGEM",
+      "clue": "Esporte praticado em rios com canoas ou caiaques.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "GOLFE",
+      "clue": "Esporte em que se busca encacapar a bola em buracos.",
+      "rowStart": 8,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "TRIATLO",
+      "clue": "Prova que combina natacao, ciclismo e corrida.",
+      "rowStart": 10,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

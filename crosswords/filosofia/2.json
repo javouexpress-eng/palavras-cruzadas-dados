@@ -1,0 +1,88 @@
+{
+  "id": 10,
+  "theme": "Filosofia",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "HEDONISMO",
+      "clue": "Corrente que coloca o prazer como fim da vida.",
+      "rowStart": 0,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "LOCKE",
+      "clue": "Filosofo ingles considerado pai do liberalismo classico.",
+      "rowStart": 1,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "HUME",
+      "clue": "Filosofo escoces empirista.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "ESTOICISMO",
+      "clue": "Escola filosofica que prega o controle das emocoes.",
+      "rowStart": 2,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "SPINOZA",
+      "clue": "Filosofo holandes racionalista.",
+      "rowStart": 3,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "VOLTAIRE",
+      "clue": "Filosofo iluminista frances, defensor da liberdade de expressao.",
+      "rowStart": 4,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "SARTRE",
+      "clue": "Filosofo frances existencialista, autor de O Ser e o Nada.",
+      "rowStart": 5,
+      "colStart": 1,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "HOBBES",
+      "clue": "Filosofo autor de Leviata.",
+      "rowStart": 5,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 8
+    },
+    {
+      "text": "RACIONALISMO",
+      "clue": "Corrente que valoriza a razao como fonte do conhecimento.",
+      "rowStart": 6,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 9
+    },
+    {
+      "text": "ROUSSEAU",
+      "clue": "Filosofo que influenciou ideias sobre contrato social.",
+      "rowStart": 11,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 10
+    }
+  ]
+}

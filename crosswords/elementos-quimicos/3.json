@@ -1,0 +1,88 @@
+{
+  "id": 11,
+  "theme": "Elementos Químicos",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "MERCURIO",
+      "clue": "Unico metal liquido a temperatura ambiente.",
+      "rowStart": 0,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "ESTANHO",
+      "clue": "Metal usado em soldas e ligas metalicas.",
+      "rowStart": 0,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "MANGANES",
+      "clue": "Metal usado na fabricacao do aco.",
+      "rowStart": 3,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "PLATINA",
+      "clue": "Metal precioso usado em joias e catalisadores.",
+      "rowStart": 3,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "COBALTO",
+      "clue": "Metal usado em baterias e pigmentos azuis.",
+      "rowStart": 5,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "CROMO",
+      "clue": "Metal brilhante usado para revestir pecas metalicas.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "CHUMBO",
+      "clue": "Metal pesado, ja usado em canos e tintas.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "ZINCO",
+      "clue": "Metal usado para proteger o ferro contra ferrugem.",
+      "rowStart": 6,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "NIQUEL",
+      "clue": "Metal usado em moedas e baterias recarregaveis.",
+      "rowStart": 8,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "TITANIO",
+      "clue": "Metal leve e resistente usado na aviacao.",
+      "rowStart": 10,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 9
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1,
+  "theme": "Galáxia",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "NEBULOSA",
+      "clue": "Nuvem de gas e poeira no espaco.",
+      "rowStart": 1,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "SUPERNOVA",
+      "clue": "Explosao violenta que marca a morte de uma estrela.",
+      "rowStart": 1,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "QUASAR",
+      "clue": "Nucleo extremamente brilhante de uma galaxia distante.",
+      "rowStart": 3,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "ASTEROIDE",
+      "clue": "Pequeno corpo rochoso que orbita o Sol.",
+      "rowStart": 3,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "VENUS",
+      "clue": "Planeta mais quente do Sistema Solar.",
+      "rowStart": 4,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "SATURNO",
+      "clue": "Planeta famoso pelos seus aneis.",
+      "rowStart": 5,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "NETUNO",
+      "clue": "Planeta mais distante do Sol, de cor azulada.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "URANO",
+      "clue": "Planeta gelado que gira praticamente deitado.",
+      "rowStart": 8,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "MARTE",
+      "clue": "Conhecido como o planeta vermelho.",
+      "rowStart": 9,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 9
+    },
+    {
+      "text": "MERCURIO",
+      "clue": "Planeta mais proximo do Sol.",
+      "rowStart": 11,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 10
+    }
+  ]
+}

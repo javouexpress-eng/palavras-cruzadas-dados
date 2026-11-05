@@ -1,0 +1,88 @@
+{
+  "id": 11,
+  "theme": "Elementos Químicos",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "HELIO",
+      "clue": "Gas leve usado para encher baloes.",
+      "rowStart": 0,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "ENXOFRE",
+      "clue": "Elemento amarelo usado na fabricacao de polvora.",
+      "rowStart": 0,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "ALUMINIO",
+      "clue": "Metal leve usado em latas e avioes.",
+      "rowStart": 3,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "FOSFORO",
+      "clue": "Elemento essencial para ossos e dentes.",
+      "rowStart": 3,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "ARGONIO",
+      "clue": "Gas nobre usado em lampadas incandescentes.",
+      "rowStart": 4,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "SILICIO",
+      "clue": "Elemento base dos chips de computador.",
+      "rowStart": 5,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "MAGNESIO",
+      "clue": "Metal leve essencial para os musculos.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "NEONIO",
+      "clue": "Gas usado em letreiros luminosos coloridos.",
+      "rowStart": 8,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "CLORO",
+      "clue": "Elemento usado para desinfetar piscinas.",
+      "rowStart": 10,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 9
+    },
+    {
+      "text": "FLUOR",
+      "clue": "Elemento presente em cremes dentais.",
+      "rowStart": 11,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 10
+    }
+  ]
+}

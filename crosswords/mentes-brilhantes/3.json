@@ -1,0 +1,88 @@
+{
+  "id": 4,
+  "theme": "Mentes Brilhantes",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "PITAGORAS",
+      "clue": "Matematico grego do famoso teorema sobre triangulos retangulos.",
+      "rowStart": 1,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "CAMOES",
+      "clue": "Poeta portugues autor de Os Lusiadas.",
+      "rowStart": 1,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "BEETHOVEN",
+      "clue": "Compositor alemao que criou obras-primas mesmo surdo.",
+      "rowStart": 1,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "VINCI",
+      "clue": "Sobrenome de Leonardo, genio renascentista.",
+      "rowStart": 2,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "TURING",
+      "clue": "Matematico britanico pioneiro da computacao.",
+      "rowStart": 3,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "MOZART",
+      "clue": "Compositor austriaco prodigio desde crianca.",
+      "rowStart": 4,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "PASTEUR",
+      "clue": "Cientista frances que criou a pasteurizacao.",
+      "rowStart": 5,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "PICASSO",
+      "clue": "Pintor espanhol, criador do cubismo.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "MENDEL",
+      "clue": "Monge considerado o pai da genetica.",
+      "rowStart": 9,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 9
+    },
+    {
+      "text": "HIPOCRATES",
+      "clue": "Considerado o pai da medicina.",
+      "rowStart": 11,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 10
+    }
+  ]
+}

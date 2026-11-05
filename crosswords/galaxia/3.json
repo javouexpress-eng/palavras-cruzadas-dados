@@ -1,0 +1,72 @@
+{
+  "id": 1,
+  "theme": "Galáxia",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "METEORITO",
+      "clue": "Fragmento rochoso que atinge a superficie de um planeta.",
+      "rowStart": 1,
+      "colStart": 1,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "ASTRONAUTA",
+      "clue": "Profissional treinado para viajar ao espaco.",
+      "rowStart": 2,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "VIALACTEA",
+      "clue": "Nome da galaxia onde fica o Sistema Solar.",
+      "rowStart": 2,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "TELESCOPIO",
+      "clue": "Instrumento usado para observar objetos distantes no ceu.",
+      "rowStart": 2,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "SATELITE",
+      "clue": "Objeto que orbita um planeta.",
+      "rowStart": 3,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "ECLIPSE",
+      "clue": "Fenomeno em que um astro encobre outro.",
+      "rowStart": 3,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "ORBITA",
+      "clue": "Trajetoria que um corpo celeste percorre ao redor de outro.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "FOGUETE",
+      "clue": "Veiculo usado para viagens ao espaco.",
+      "rowStart": 9,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

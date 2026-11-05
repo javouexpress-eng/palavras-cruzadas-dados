@@ -1,0 +1,72 @@
+{
+  "id": 4,
+  "theme": "Mentes Brilhantes",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "SHAKESPEARE",
+      "clue": "Dramaturgo ingles autor de Hamlet e Romeu e Julieta.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "CHURCHILL",
+      "clue": "Primeiro-ministro britanico durante a Segunda Guerra Mundial.",
+      "rowStart": 0,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "CONFUCIO",
+      "clue": "Filosofo chines cujos ensinamentos moldaram a cultura oriental.",
+      "rowStart": 0,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "ARQUIMEDES",
+      "clue": "Matematico grego famoso pelo principio da flutuacao.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "COPERNICO",
+      "clue": "Astronomo que propos o modelo heliocentrico.",
+      "rowStart": 3,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "LEONARDO",
+      "clue": "Artista e inventor renascentista, pintou a Mona Lisa.",
+      "rowStart": 4,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "LINCOLN",
+      "clue": "Presidente americano que aboliu a escravidao nos EUA.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "HAWKING",
+      "clue": "Fisico britanico que estudou buracos negros.",
+      "rowStart": 8,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 7
+    }
+  ]
+}

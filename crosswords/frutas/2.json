@@ -1,0 +1,72 @@
+{
+  "id": 6,
+  "theme": "Frutas",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "CAJU",
+      "clue": "Fruta tipica do Nordeste, da origem a castanha.",
+      "rowStart": 0,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "ABACATE",
+      "clue": "Fruta cremosa usada ate em vitaminas doces.",
+      "rowStart": 0,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "CEREJA",
+      "clue": "Fruta pequena e vermelha, simbolo de doces e bolos.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "COCO",
+      "clue": "Fruta tropical com agua e polpa branca.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "MELANCIA",
+      "clue": "Fruta grande, vermelha por dentro, muito suculenta.",
+      "rowStart": 3,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "AMEIXA",
+      "clue": "Fruta pequena e roxa, tambem vendida seca.",
+      "rowStart": 4,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "PERA",
+      "clue": "Fruta de formato caracteristico, doce e suculenta.",
+      "rowStart": 6,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "KIWI",
+      "clue": "Fruta de casca peluda e polpa verde.",
+      "rowStart": 9,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 7
+    }
+  ]
+}

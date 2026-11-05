@@ -1,0 +1,72 @@
+{
+  "id": 13,
+  "theme": "Capitais do Mundo",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "BERLIM",
+      "clue": "Capital da Alemanha.",
+      "rowStart": 1,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "VIENA",
+      "clue": "Capital da Austria, famosa pela musica classica.",
+      "rowStart": 2,
+      "colStart": 7,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "DUBLIN",
+      "clue": "Capital da Irlanda.",
+      "rowStart": 3,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "BRUXELAS",
+      "clue": "Capital da Belgica, sede de instituicoes da Uniao Europeia.",
+      "rowStart": 4,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "ATENAS",
+      "clue": "Capital da Grecia, berco da democracia.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "OSLO",
+      "clue": "Capital da Noruega.",
+      "rowStart": 6,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "HELSINQUE",
+      "clue": "Capital da Finlandia.",
+      "rowStart": 8,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "VARSOVIA",
+      "clue": "Capital da Polonia.",
+      "rowStart": 10,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 8
+    }
+  ]
+}

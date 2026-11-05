@@ -1,0 +1,72 @@
+{
+  "id": 9,
+  "theme": "Profissões",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "ASTRONAUTA",
+      "clue": "Profissional treinado para viajar ao espaço.",
+      "rowStart": 0,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "ALFAIATE",
+      "clue": "Profissional que confecciona e ajusta roupas sob medida.",
+      "rowStart": 0,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "AGRICULTOR",
+      "clue": "Profissional que trabalha no plantio e colheita.",
+      "rowStart": 1,
+      "colStart": 1,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "PSICOLOGO",
+      "clue": "Profissional que cuida da saúde mental das pessoas.",
+      "rowStart": 3,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "ARQUITETO",
+      "clue": "Profissional que projeta prédios e espaços.",
+      "rowStart": 3,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "GARCOM",
+      "clue": "Profissional que atende mesas em restaurantes.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "CONTADOR",
+      "clue": "Profissional que cuida das finanças de empresas.",
+      "rowStart": 9,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "FOTOGRAFO",
+      "clue": "Profissional especializado em registrar imagens.",
+      "rowStart": 11,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 7
+    }
+  ]
+}

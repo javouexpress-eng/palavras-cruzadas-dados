@@ -1,0 +1,72 @@
+{
+  "id": 7,
+  "theme": "Esportes",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "SURFE",
+      "clue": "Esporte praticado sobre as ondas do mar.",
+      "rowStart": 0,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "HANDEBOL",
+      "clue": "Esporte jogado com as maos, visando o gol adversario.",
+      "rowStart": 1,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "HOQUEI",
+      "clue": "Esporte jogado com um taco e um disco ou bola.",
+      "rowStart": 1,
+      "colStart": 6,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "JUDO",
+      "clue": "Arte marcial japonesa baseada em quedas e imobilizacoes.",
+      "rowStart": 5,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "KARATE",
+      "clue": "Arte marcial japonesa baseada em socos e chutes.",
+      "rowStart": 6,
+      "colStart": 1,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "RUGBY",
+      "clue": "Esporte de contato jogado com bola oval.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "REMO",
+      "clue": "Esporte praticado em barcos movidos a remos.",
+      "rowStart": 8,
+      "colStart": 1,
+      "direction": "HORIZONTAL",
+      "number": 6
+    },
+    {
+      "text": "ATLETISMO",
+      "clue": "Conjunto de modalidades de corrida, salto e arremesso.",
+      "rowStart": 10,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 7
+    }
+  ]
+}
