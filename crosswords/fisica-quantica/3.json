@@ -1,0 +1,80 @@
+{
+  "id": 16,
+  "theme": "Física Quântica",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "PARTICULA",
+      "clue": "Menor unidade de matéria ou energia estudada pela física quântica.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "LEPTON",
+      "clue": "Família de partículas elementares que inclui o elétron e o neutrino.",
+      "rowStart": 0,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "QUANTIZACAO",
+      "clue": "Processo de tornar discretos valores que na física classica eram contínuos.",
+      "rowStart": 1,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "PLANCK",
+      "clue": "Físico que propôs que a energia é emitida em pacotes discretos, os quanta.",
+      "rowStart": 2,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "ISOSPIN",
+      "clue": "Número quântico que relaciona prótons e nêutrons como a mesma partícula.",
+      "rowStart": 4,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "ENERGIA",
+      "clue": "Capacidade de realizar trabalho; na física quântica, só existe em pacotes discretos.",
+      "rowStart": 5,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "BARION",
+      "clue": "Partícula formada por três quarks, como o próton.",
+      "rowStart": 6,
+      "colStart": 3,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "ANTIMATERIA",
+      "clue": "Matéria formada por antipartículas, com carga oposta à matéria comum.",
+      "rowStart": 8,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "SUPERPOSICAO",
+      "clue": "Estado em que uma partícula quântica existe em várias possibilidades ao mesmo tempo.",
+      "rowStart": 10,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 9
+    }
+  ]
+}

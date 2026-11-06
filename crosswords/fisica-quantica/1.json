@@ -1,0 +1,80 @@
+{
+  "id": 16,
+  "theme": "Física Quântica",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "INCERTEZA",
+      "clue": "Princípio de Heisenberg: posição e momento não podem ser medidos com precisão total ao mesmo tempo.",
+      "rowStart": 0,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "FERMION",
+      "clue": "Tipo de partícula que obedece ao princípio de exclusão, como o elétron.",
+      "rowStart": 0,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "FOTON",
+      "clue": "Partícula elementar que transporta a luz e outras ondas eletromagnéticas.",
+      "rowStart": 1,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "BOSON",
+      "clue": "Tipo de partícula que transmite as forças fundamentais, como o fóton.",
+      "rowStart": 2,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "SPIN",
+      "clue": "Propriedade quântica ligada ao momento angular intrínseco da partícula.",
+      "rowStart": 4,
+      "colStart": 8,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "ORBITAL",
+      "clue": "Região do espaço onde é mais provável encontrar um elétron.",
+      "rowStart": 5,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "ELETRON",
+      "clue": "Partícula subatômica de carga negativa que orbita o núcleo do átomo.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "DUALIDADE",
+      "clue": "Comportamento onda-partícula apresentado pela luz e pela matéria.",
+      "rowStart": 8,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "QUARK",
+      "clue": "Partícula elementar que forma prótons e nêutrons.",
+      "rowStart": 10,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 9
+    }
+  ]
+}

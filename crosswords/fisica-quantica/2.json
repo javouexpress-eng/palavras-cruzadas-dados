@@ -1,0 +1,80 @@
+{
+  "id": 16,
+  "theme": "Física Quântica",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "DECOERENCIA",
+      "clue": "Perda das propriedades quânticas de um sistema ao interagir com o ambiente.",
+      "rowStart": 0,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "GLUON",
+      "clue": "Partícula que transmite a força nuclear forte entre quarks.",
+      "rowStart": 0,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "NUCLEON",
+      "clue": "Nome genérico para prótons e nêutrons, que formam o núcleo atômico.",
+      "rowStart": 1,
+      "colStart": 5,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "POSITRON",
+      "clue": "Antipartícula do elétron, com a mesma massa e carga positiva.",
+      "rowStart": 3,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 4
+    },
+    {
+      "text": "NEUTRINO",
+      "clue": "Partícula quase sem massa e sem carga, muito difícil de detectar.",
+      "rowStart": 4,
+      "colStart": 1,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "HADRON",
+      "clue": "Partícula composta por quarks, como o próton e o nêutron.",
+      "rowStart": 5,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "NEUTRON",
+      "clue": "Partícula neutra do núcleo atômico, junto com o próton.",
+      "rowStart": 5,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 7
+    },
+    {
+      "text": "COLAPSO",
+      "clue": "Momento em que a superposição quântica se reduz a um único resultado, ao ser medida.",
+      "rowStart": 5,
+      "colStart": 10,
+      "direction": "VERTICAL",
+      "number": 8
+    },
+    {
+      "text": "TUNELAMENTO",
+      "clue": "Efeito quântico em que uma partícula atravessa uma barreira que classicamente não poderia.",
+      "rowStart": 6,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 9
+    }
+  ]
+}

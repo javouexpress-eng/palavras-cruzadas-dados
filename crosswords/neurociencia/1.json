@@ -1,0 +1,88 @@
+{
+  "id": 15,
+  "theme": "Neurociência",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "NEURONIO",
+      "clue": "Célula básica do sistema nervoso, especializada em transmitir sinais.",
+      "rowStart": 0,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "HIPOCAMPO",
+      "clue": "Estrutura cerebral ligada à formação de memórias.",
+      "rowStart": 0,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "CORTEX",
+      "clue": "Camada externa do cérebro, onde ocorre o processamento mais complexo.",
+      "rowStart": 1,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 3
+    },
+    {
+      "text": "DENDRITO",
+      "clue": "Ramificação do neurônio que recebe sinais de outras células.",
+      "rowStart": 2,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "CEREBELO",
+      "clue": "Estrutura responsável pelo equilíbrio e coordenação motora.",
+      "rowStart": 3,
+      "colStart": 4,
+      "direction": "HORIZONTAL",
+      "number": 5
+    },
+    {
+      "text": "SINAPSE",
+      "clue": "Ponto de comunicação química entre dois neurônios.",
+      "rowStart": 5,
+      "colStart": 3,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "MIELINA",
+      "clue": "Bainha que envolve o axônio e acelera a condução do impulso.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "AXONIO",
+      "clue": "Prolongamento do neurônio que conduz o impulso elétrico pra frente.",
+      "rowStart": 6,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 8
+    },
+    {
+      "text": "TALAMO",
+      "clue": "Estação retransmissora de quase todas as informações sensoriais pro córtex.",
+      "rowStart": 8,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 9
+    },
+    {
+      "text": "CEREBRO",
+      "clue": "Órgão central do sistema nervoso, dentro do crânio.",
+      "rowStart": 11,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 10
+    }
+  ]
+}

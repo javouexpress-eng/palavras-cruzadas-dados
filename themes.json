@@ -12,5 +12,7 @@
   { "slug": "filosofia", "theme": "Filosofia", "difficulty": "dificil", "phases": 3 },
   { "slug": "elementos-quimicos", "theme": "Elementos Químicos", "difficulty": "dificil", "phases": 3 },
   { "slug": "termos-juridicos", "theme": "Termos Jurídicos", "difficulty": "especialista", "phases": 3 },
-  { "slug": "taxonomia-biologica", "theme": "Taxonomia Biológica", "difficulty": "especialista", "phases": 3 }
+  { "slug": "taxonomia-biologica", "theme": "Taxonomia Biológica", "difficulty": "especialista", "phases": 3 },
+  { "slug": "neurociencia", "theme": "Neurociência", "difficulty": "especialista", "phases": 3 },
+  { "slug": "fisica-quantica", "theme": "Física Quântica", "difficulty": "especialista", "phases": 3 }
 ]

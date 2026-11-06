@@ -1,0 +1,80 @@
+{
+  "id": 15,
+  "theme": "Neurociência",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "NOCICEPTOR",
+      "clue": "Receptor nervoso especializado em detectar estímulos de dor.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "NEUROGLIA",
+      "clue": "Células de suporte do sistema nervoso, não transmitem sinal elétrico.",
+      "rowStart": 0,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 1
+    },
+    {
+      "text": "AMIGDALA",
+      "clue": "Estrutura do cérebro ligada ao medo e às emoções.",
+      "rowStart": 2,
+      "colStart": 8,
+      "direction": "VERTICAL",
+      "number": 2
+    },
+    {
+      "text": "DOPAMINA",
+      "clue": "Neurotransmissor ligado à recompensa e ao prazer.",
+      "rowStart": 3,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "GLUTAMATO",
+      "clue": "Principal neurotransmissor excitatório do sistema nervoso central.",
+      "rowStart": 3,
+      "colStart": 4,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "ENCEFALO",
+      "clue": "Conjunto formado por cérebro, cerebelo e tronco encefálico.",
+      "rowStart": 4,
+      "colStart": 6,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "MEDULA",
+      "clue": "Estrutura que liga o encéfalo ao resto do corpo, dentro da coluna.",
+      "rowStart": 5,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "PLASTICIDADE",
+      "clue": "Capacidade do cérebro de se reorganizar criando novas conexões.",
+      "rowStart": 6,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "AMINA",
+      "clue": "Classe química à qual pertencem a dopamina e a serotonina.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 8
+    }
+  ]
+}

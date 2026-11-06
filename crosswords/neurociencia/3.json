@@ -1,0 +1,88 @@
+{
+  "id": 15,
+  "theme": "Neurociência",
+  "rows": 12,
+  "cols": 12,
+  "words": [
+    {
+      "text": "PLEXO",
+      "clue": "Rede de nervos entrelaçados numa região do corpo.",
+      "rowStart": 0,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 1
+    },
+    {
+      "text": "NEURONAL",
+      "clue": "Relativo ao neurônio, como na expressão \"rede neuronal\".",
+      "rowStart": 1,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 2
+    },
+    {
+      "text": "ASTROCITO",
+      "clue": "Tipo de célula glial em formato de estrela que sustenta os neurônios.",
+      "rowStart": 3,
+      "colStart": 2,
+      "direction": "VERTICAL",
+      "number": 3
+    },
+    {
+      "text": "POTENCIAL",
+      "clue": "O \"__ de ação\" é o sinal elétrico que percorre o neurônio.",
+      "rowStart": 3,
+      "colStart": 5,
+      "direction": "VERTICAL",
+      "number": 4
+    },
+    {
+      "text": "MICROGLIA",
+      "clue": "Células do sistema nervoso que atuam na defesa e limpeza do tecido.",
+      "rowStart": 3,
+      "colStart": 9,
+      "direction": "VERTICAL",
+      "number": 5
+    },
+    {
+      "text": "GANGLIO",
+      "clue": "Agrupamento de corpos de neurônios fora do sistema nervoso central.",
+      "rowStart": 3,
+      "colStart": 11,
+      "direction": "VERTICAL",
+      "number": 6
+    },
+    {
+      "text": "SEROTONINA",
+      "clue": "Neurotransmissor ligado ao humor e ao bem-estar.",
+      "rowStart": 4,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 7
+    },
+    {
+      "text": "RECEPTOR",
+      "clue": "Estrutura que capta um estímulo e inicia um sinal nervoso.",
+      "rowStart": 6,
+      "colStart": 2,
+      "direction": "HORIZONTAL",
+      "number": 8
+    },
+    {
+      "text": "TRONCO",
+      "clue": "Parte do encéfalo que liga o cérebro à medula espinhal, chamada de \"__ encefálico\".",
+      "rowStart": 6,
+      "colStart": 7,
+      "direction": "VERTICAL",
+      "number": 9
+    },
+    {
+      "text": "AXONAL",
+      "clue": "Relativo ao axônio, como no \"transporte __\".",
+      "rowStart": 11,
+      "colStart": 0,
+      "direction": "HORIZONTAL",
+      "number": 10
+    }
+  ]
+}
