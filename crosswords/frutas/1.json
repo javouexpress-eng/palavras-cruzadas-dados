@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "O morango não é tecnicamente uma fruta — é um pseudofruto; as sementes por fora são os frutos de verdade."
     },
     {
       "text": "ABACAXI",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Leva cerca de 2 a 3 anos pra uma planta produzir um único abacaxi maduro."
     },
     {
       "text": "MANGA",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "É uma das frutas mais consumidas no mundo, cultivada há mais de 4 mil anos na Índia."
     },
     {
       "text": "MACA",
@@ -34,7 +37,8 @@
       "rowStart": 4,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Existem mais de 7.500 variedades de maçã cultivadas no mundo."
     },
     {
       "text": "GOIABA",
@@ -42,7 +46,8 @@
       "rowStart": 5,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Tem bem mais vitamina C que a laranja, grama por grama."
     },
     {
       "text": "LIMAO",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Foi usado por séculos em navios pra prevenir o escorbuto entre marinheiros."
     },
     {
       "text": "BANANA",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "É tecnicamente uma baga, fruto de uma erva gigante — não de uma árvore."
     },
     {
       "text": "UVA",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "É usada há milhares de anos na fabricação de vinho, uma das bebidas mais antigas da humanidade."
     }
   ]
 }

@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Representam mais de 95% de todas as espécies animais conhecidas."
     },
     {
       "text": "VERTEBRADO",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Têm coluna vertebral, um esqueleto interno que sustenta o corpo."
     },
     {
       "text": "EUCARIONTE",
@@ -26,7 +28,8 @@
       "rowStart": 0,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Células eucariontes têm núcleo definido, diferente das bactérias (procariontes)."
     },
     {
       "text": "MAMIFERO",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Quase todos os mamíferos têm pelos e alimentam os filhotes com leite."
     },
     {
       "text": "ANFIBIO",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Muitos anfíbios passam por metamorfose, como o sapo que começa como girino."
     },
     {
       "text": "ARTROPODE",
@@ -50,7 +55,8 @@
       "rowStart": 3,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Insetos, aranhas e crustáceos são todos artrópodes — o maior grupo de animais do planeta."
     },
     {
       "text": "CORDADO",
@@ -58,7 +64,8 @@
       "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Todos os cordados têm, em algum momento da vida, uma estrutura parecida com coluna dorsal."
     },
     {
       "text": "MOLUSCO",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Polvos, caracóis e mariscos são todos moluscos, apesar de parecerem tão diferentes."
     },
     {
       "text": "REPTIL",
@@ -74,7 +82,8 @@
       "rowStart": 8,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "A maioria dos répteis põe ovos com casca resistente, adaptados à vida fora da água."
     },
     {
       "text": "PROCARIONTE",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 10
+      "number": 10,
+      "curiosity": "Bactérias são procariontes — não têm núcleo definido dentro da célula."
     }
   ]
 }

@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Capital da Alemanha, dividida por um muro entre 1961 e 1989."
     },
     {
       "text": "VIENA",
@@ -18,7 +19,8 @@
       "rowStart": 2,
       "colStart": 7,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Capital da Áustria, famosa por sua tradição em música clássica."
     },
     {
       "text": "DUBLIN",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Capital da Irlanda, às margens do rio Liffey."
     },
     {
       "text": "BRUXELAS",
@@ -34,7 +37,8 @@
       "rowStart": 4,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Capital da Bélgica e sede de várias instituições da União Europeia."
     },
     {
       "text": "ATENAS",
@@ -42,7 +46,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Capital da Grécia, considerada o berço da democracia."
     },
     {
       "text": "OSLO",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Capital da Noruega, uma das cidades mais caras do mundo."
     },
     {
       "text": "HELSINQUE",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Capital da Finlândia, perto do Círculo Polar Ártico."
     },
     {
       "text": "VARSOVIA",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Capital da Polônia, quase totalmente reconstruída após a Segunda Guerra Mundial."
     }
   ]
 }

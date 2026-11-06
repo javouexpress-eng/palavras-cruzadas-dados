@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "O cérebro humano tem cerca de 86 bilhões de neurônios."
     },
     {
       "text": "HIPOCAMPO",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Tem esse nome porque seu formato lembra o do peixe cavalo-marinho (hipocampo, em grego)."
     },
     {
       "text": "CORTEX",
@@ -26,7 +28,8 @@
       "rowStart": 1,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "O córtex cerebral humano, se fosse esticado, ocuparia cerca de 2.500 cm²."
     },
     {
       "text": "DENDRITO",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Um único neurônio pode ter milhares de dendritos recebendo sinais de outras células."
     },
     {
       "text": "CEREBELO",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Apesar de ser só 10% do volume do cérebro, contém mais da metade de todos os neurônios."
     },
     {
       "text": "SINAPSE",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "O cérebro humano tem trilhões de sinapses — muito mais do que estrelas na Via Láctea."
     },
     {
       "text": "MIELINA",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "A esclerose múltipla é uma doença que ataca justamente a bainha de mielina."
     },
     {
       "text": "AXONIO",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "O axônio mais longo do corpo humano vai da base da coluna até o dedão do pé."
     },
     {
       "text": "TALAMO",
@@ -74,7 +82,8 @@
       "rowStart": 8,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Quase todas as informações sensoriais (exceto o olfato) passam pelo tálamo antes de chegar ao córtex."
     },
     {
       "text": "CEREBRO",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 10
+      "number": 10,
+      "curiosity": "Consome cerca de 20% de toda a energia do corpo, mesmo sendo só 2% do peso corporal."
     }
   ]
 }

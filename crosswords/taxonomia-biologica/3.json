@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Alimenta-se principalmente de carne de outros animais."
     },
     {
       "text": "ECOSSISTEMA",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É o conjunto de seres vivos de uma região interagindo entre si e com o ambiente físico."
     },
     {
       "text": "HERBIVORO",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Alimenta-se principalmente de plantas."
     },
     {
       "text": "SIMBIOSE",
@@ -34,7 +37,8 @@
       "rowStart": 4,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "É uma relação em que duas espécies diferentes vivem em estreita associação, muitas vezes se beneficiando mutuamente."
     },
     {
       "text": "MUTACAO",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Pequenas mudanças no DNA que podem ser passadas pra próxima geração — motor da evolução."
     },
     {
       "text": "METAMORFOSE",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É a transformação drástica de forma durante o desenvolvimento, como de larva pra borboleta."
     },
     {
       "text": "FOSSIL",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "São restos ou marcas de seres vivos preservados nas rochas por milhões de anos."
     },
     {
       "text": "HABITAT",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "É o ambiente natural onde uma espécie vive e encontra tudo que precisa pra sobreviver."
     }
   ]
 }

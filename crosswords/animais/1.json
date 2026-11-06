@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Maior animal terrestre vivo, pode pesar mais de 6 toneladas e tem a tromba com mais de 40 mil músculos."
     },
     {
       "text": "TIGRE",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Maior felino do mundo — cada tigre tem um padrão de listras único, como uma impressão digital."
     },
     {
       "text": "CROCODILO",
@@ -26,7 +28,8 @@
       "rowStart": 1,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Existe há mais de 200 milhões de anos e sobreviveu à extinção dos dinossauros."
     },
     {
       "text": "CANGURU",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Não consegue andar pra trás por causa do formato das pernas e da cauda grande."
     },
     {
       "text": "GIRAFA",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Tem o pescoço mais longo entre os mamíferos, mas só 7 vértebras — o mesmo número que o nosso."
     },
     {
       "text": "LEAO",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É o único felino que vive em grupos organizados, chamados de bandos."
     },
     {
       "text": "ZEBRA",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Suas listras são únicas pra cada indivíduo, como uma impressão digital."
     },
     {
       "text": "MACACO",
@@ -66,7 +73,8 @@
       "rowStart": 9,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Alguns macacos usam ferramentas simples, como pedras, pra quebrar frutos e nozes."
     }
   ]
 }

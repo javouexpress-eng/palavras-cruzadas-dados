@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É uma nuvem de gás e poeira no espaço, muitas vezes berçário de novas estrelas."
     },
     {
       "text": "SUPERNOVA",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É a explosão de uma estrela ao fim da vida — pode brilhar mais que uma galáxia inteira por um tempo."
     },
     {
       "text": "QUASAR",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "É um dos objetos mais brilhantes do universo, alimentado por um buraco negro supermassivo."
     },
     {
       "text": "ASTEROIDE",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "A maioria dos asteroides do Sistema Solar está concentrada no cinturão entre Marte e Júpiter."
     },
     {
       "text": "VENUS",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "É o planeta mais quente do Sistema Solar, mesmo não sendo o mais próximo do Sol."
     },
     {
       "text": "SATURNO",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Seus famosos anéis são formados principalmente por gelo e rocha."
     },
     {
       "text": "NETUNO",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "É o planeta mais distante do Sol e tem os ventos mais fortes do Sistema Solar."
     },
     {
       "text": "URANO",
@@ -66,7 +73,8 @@
       "rowStart": 8,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "É o único planeta que gira \"de lado\", com o eixo quase paralelo à sua órbita."
     },
     {
       "text": "MARTE",
@@ -74,7 +82,8 @@
       "rowStart": 9,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "É conhecido como o \"planeta vermelho\" por causa do óxido de ferro (ferrugem) em sua superfície."
     },
     {
       "text": "MERCURIO",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 10
+      "number": 10,
+      "curiosity": "É o planeta mais próximo do Sol e também o menor do Sistema Solar."
     }
   ]
 }

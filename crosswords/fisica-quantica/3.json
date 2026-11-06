@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "O Modelo Padrão da física descreve todas as partículas elementares conhecidas."
     },
     {
       "text": "LEPTON",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "O elétron, o múon e o neutrino fazem parte da família dos leptons."
     },
     {
       "text": "QUANTIZACAO",
@@ -26,7 +28,8 @@
       "rowStart": 1,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Max Planck propôs em 1900 que a energia vem em \"pacotes\", dando início à física quântica."
     },
     {
       "text": "PLANCK",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Sua constante, a constante de Planck, é um dos números mais fundamentais da física."
     },
     {
       "text": "ISOSPIN",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Ideia criada pra explicar por que prótons e nêutrons se comportam de forma tão parecida."
     },
     {
       "text": "ENERGIA",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Na física quântica, a energia de um sistema não pode assumir qualquer valor — só certos valores discretos."
     },
     {
       "text": "BARION",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Prótons e nêutrons são os bárions mais conhecidos, formados por três quarks."
     },
     {
       "text": "ANTIMATERIA",
@@ -66,7 +73,8 @@
       "rowStart": 8,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Quando matéria e antimatéria se encontram, elas se aniquilam e viram energia pura."
     },
     {
       "text": "SUPERPOSICAO",
@@ -74,7 +82,8 @@
       "rowStart": 10,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "O famoso \"gato de Schrödinger\" é uma forma de ilustrar essa ideia de estar em dois estados ao mesmo tempo."
     }
   ]
 }

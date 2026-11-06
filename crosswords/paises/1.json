@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É o maior país da América do Sul e o único de língua portuguesa no continente."
     },
     {
       "text": "RUANDA",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É conhecida como o \"país das mil colinas\" por seu relevo montanhoso."
     },
     {
       "text": "ALEMANHA",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "É a maior economia da Europa e um dos países mais populosos do continente."
     },
     {
       "text": "ANGOLA",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "É um dos maiores produtores de petróleo da África."
     },
     {
       "text": "CATAR",
@@ -42,7 +46,8 @@
       "rowStart": 5,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Sediou a Copa do Mundo de 2022, a primeira realizada no Oriente Médio."
     },
     {
       "text": "COLOMBIA",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "É o maior produtor mundial de esmeraldas."
     },
     {
       "text": "CHILE",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Tem o deserto mais seco do mundo, o Atacama, e uma das costas mais longas do planeta."
     },
     {
       "text": "INDIA",
@@ -66,7 +73,8 @@
       "rowStart": 8,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É o país mais populoso do mundo, com mais de 1,4 bilhão de habitantes."
     }
   ]
 }

@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Tem a segunda maior área territorial do mundo, atrás apenas da Rússia."
     },
     {
       "text": "FRANCA",
@@ -18,7 +19,8 @@
       "rowStart": 2,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É o país mais visitado por turistas do mundo."
     },
     {
       "text": "ITALIA",
@@ -26,7 +28,8 @@
       "rowStart": 4,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Tem o maior número de sítios declarados Patrimônio Mundial pela UNESCO."
     },
     {
       "text": "MEXICO",
@@ -34,7 +37,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "É o país de origem do chocolate, do milho e da pimenta como os conhecemos hoje."
     },
     {
       "text": "EGITO",
@@ -42,7 +46,8 @@
       "rowStart": 6,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Abriga as pirâmides de Gizé, uma das sete maravilhas do mundo antigo ainda de pé."
     },
     {
       "text": "JAPAO",
@@ -50,7 +55,8 @@
       "rowStart": 7,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É formado por mais de 6.800 ilhas, embora quatro delas concentrem a maior parte da população."
     },
     {
       "text": "RUSSIA",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "É o maior país do mundo em território, cobrindo 11 fusos horários diferentes."
     },
     {
       "text": "PORTUGAL",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "É um dos países mais antigos da Europa com fronteiras praticamente inalteradas desde o século 13."
     }
   ]
 }

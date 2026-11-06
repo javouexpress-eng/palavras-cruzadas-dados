@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Símbolo K — essencial pro funcionamento dos músculos e do coração."
     },
     {
       "text": "PRATA",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Símbolo Ag — é o metal com melhor condutividade elétrica entre todos."
     },
     {
       "text": "NITROGENIO",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Símbolo N — forma cerca de 78% do ar que respiramos."
     },
     {
       "text": "SODIO",
@@ -34,7 +37,8 @@
       "rowStart": 4,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Símbolo Na — junto com o cloro forma o sal de cozinha."
     },
     {
       "text": "OXIGENIO",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Símbolo O — essencial pra respiração, forma cerca de 21% da atmosfera."
     },
     {
       "text": "FERRO",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Símbolo Fe — é o metal mais usado no mundo, presente até no sangue (hemoglobina)."
     },
     {
       "text": "HIDROGENIO",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Símbolo H — é o elemento mais abundante do universo."
     },
     {
       "text": "OURO",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Símbolo Au — um dos poucos metais que não enferruja nem perde o brilho com o tempo."
     },
     {
       "text": "CALCIO",
@@ -74,7 +82,8 @@
       "rowStart": 9,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Símbolo Ca — forma a maior parte dos ossos e dentes."
     },
     {
       "text": "CARBONO",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Símbolo C — é a base de toda a vida conhecida na Terra."
     }
   ]
 }

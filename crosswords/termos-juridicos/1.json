@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É usado quando uma das partes discorda de uma decisão judicial e pede revisão por instância superior."
     },
     {
       "text": "USUCAPIAO",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Permite adquirir a propriedade de um imóvel após usá-lo de forma contínua por determinado tempo."
     },
     {
       "text": "SENTENCA",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Encerra um processo na primeira instância, podendo ainda ser questionada por recurso."
     },
     {
       "text": "TESTAMENTO",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Permite que uma pessoa decida, ainda em vida, como seus bens serão divididos após sua morte."
     },
     {
       "text": "HIPOTECA",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "O imóvel continua sendo usado pelo proprietário, mas serve de garantia pra uma dívida."
     },
     {
       "text": "LIMINAR",
@@ -50,7 +55,8 @@
       "rowStart": 4,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Pode ser concedida antes mesmo do réu se manifestar, em casos de urgência."
     },
     {
       "text": "MANDADO",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Um mandado de segurança, por exemplo, protege direitos quando não há outro remédio legal cabível."
     },
     {
       "text": "HERANCA",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "A divisão de uma herança segue regras específicas definidas por lei, chamada de sucessão."
     }
   ]
 }

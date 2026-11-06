@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "O princípio da incerteza de Heisenberg mostra que a própria natureza impede medir certas coisas com precisão absoluta — não é uma limitação dos instrumentos."
     },
     {
       "text": "FERMION",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Elétrons, prótons e nêutrons são todos fármions — é por isso que a matéria \"ocupa espaço\" e não atravessa outra matéria."
     },
     {
       "text": "FOTON",
@@ -26,7 +28,8 @@
       "rowStart": 1,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "A luz do Sol leva cerca de 8 minutos pra chegar à Terra viajando como fótons."
     },
     {
       "text": "BOSON",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "O bóson de Higgs, descoberto em 2012, explica por que as partículas têm massa."
     },
     {
       "text": "SPIN",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 8,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Apesar do nome, o spin da partícula não é literalmente uma rotação no espaço."
     },
     {
       "text": "ORBITAL",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Diferente da órbita de um planeta, um orbital eletrônico é uma região de probabilidade, não um caminho fixo."
     },
     {
       "text": "ELETRON",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Foi a primeira partícula subatômica descoberta, em 1897, por J. J. Thomson."
     },
     {
       "text": "DUALIDADE",
@@ -66,7 +73,8 @@
       "rowStart": 8,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "O mesmo experimento pode mostrar a luz se comportando como onda ou como partícula, dependendo de como é observada."
     },
     {
       "text": "QUARK",
@@ -74,7 +82,8 @@
       "rowStart": 10,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "O nome foi inspirado numa palavra sem sentido do livro \"Finnegans Wake\", de James Joyce."
     }
   ]
 }

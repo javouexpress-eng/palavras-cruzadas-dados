@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 1,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Um dos esportes olímpicos mais antigos, presente desde a Grécia Antiga."
     },
     {
       "text": "CICLISMO",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "O Tour de France é a corrida de ciclismo mais famosa do mundo."
     },
     {
       "text": "GINASTICA",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Exige uma combinação extrema de força, flexibilidade e equilíbrio."
     },
     {
       "text": "TENIS",
@@ -34,7 +37,8 @@
       "rowStart": 4,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "O saque mais rápido já registrado passou de 260 km/h."
     },
     {
       "text": "VOLEI",
@@ -42,7 +46,8 @@
       "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Foi criado em 1895, nos Estados Unidos, como alternativa menos violenta ao basquete."
     },
     {
       "text": "NATACAO",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É um dos poucos esportes presentes em todas as edições dos Jogos Olímpicos modernos."
     },
     {
       "text": "FUTEBOL",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "É o esporte mais praticado e assistido no mundo."
     },
     {
       "text": "BASQUETE",
@@ -66,7 +73,8 @@
       "rowStart": 11,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Foi inventado em 1891 usando cestos de pêssego como aro."
     }
   ]
 }

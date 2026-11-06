@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É o autor mais citado da língua inglesa — criou palavras ainda usadas hoje."
     },
     {
       "text": "CHURCHILL",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Liderou o Reino Unido durante a Segunda Guerra Mundial e ganhou o Nobel de Literatura."
     },
     {
       "text": "CONFUCIO",
@@ -26,7 +28,8 @@
       "rowStart": 0,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Filósofo chinês cujas ideias sobre ética e boa conduta influenciam a cultura do leste asiático até hoje."
     },
     {
       "text": "ARQUIMEDES",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Segundo a lenda, teve um insight sobre densidade enquanto tomava banho e saiu gritando \"Eureka!\"."
     },
     {
       "text": "COPERNICO",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Propôs que o Sol, e não a Terra, era o centro do Sistema Solar."
     },
     {
       "text": "LEONARDO",
@@ -50,7 +55,8 @@
       "rowStart": 4,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Leonardo da Vinci foi pintor, inventor, engenheiro e cientista — um dos maiores símbolos do Renascimento."
     },
     {
       "text": "LINCOLN",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Presidente dos Estados Unidos que aboliu a escravidão no país em 1863."
     },
     {
       "text": "HAWKING",
@@ -66,7 +73,8 @@
       "rowStart": 8,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Físico britânico que estudou buracos negros mesmo após ser diagnosticado com uma doença degenerativa grave."
     }
   ]
 }

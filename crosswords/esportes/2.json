@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Tornou-se esporte olímpico oficial em 2020 (disputado em Tóquio, 2021)."
     },
     {
       "text": "HANDEBOL",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É jogado com as mãos e tem um dos jogos mais rápidos entre esportes coletivos."
     },
     {
       "text": "HOQUEI",
@@ -26,7 +28,8 @@
       "rowStart": 1,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Pode ser jogado no gelo ou na grama, dependendo da modalidade."
     },
     {
       "text": "JUDO",
@@ -34,7 +37,8 @@
       "rowStart": 5,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Criado no Japão, seu nome significa \"o caminho da suavidade\"."
     },
     {
       "text": "KARATE",
@@ -42,7 +46,8 @@
       "rowStart": 6,
       "colStart": 1,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Tem origem em Okinawa, no Japão, e significa \"mão vazia\"."
     },
     {
       "text": "RUGBY",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Deu origem ao futebol americano no século 19."
     },
     {
       "text": "REMO",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É um dos esportes olímpicos mais antigos, disputado desde os Jogos de 1900."
     },
     {
       "text": "ATLETISMO",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Reúne corridas, saltos e lançamentos — é um dos núcleos mais antigos dos Jogos Olímpicos."
     }
   ]
 }

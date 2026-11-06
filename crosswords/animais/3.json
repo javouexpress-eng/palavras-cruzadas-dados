@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Algumas espécies marinhas vivem mais de 100 anos."
     },
     {
       "text": "JACARE",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Diferente do crocodilo, tem o formato do focinho mais arredondado, em \"U\"."
     },
     {
       "text": "PAPAGAIO",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "É capaz de imitar sons e até aprender dezenas de palavras."
     },
     {
       "text": "ONCA",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "A onça-pintada é o maior felino das Américas."
     },
     {
       "text": "CAMELO",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "As corcovas armazenam gordura, não água, pra ajudar a sobreviver no deserto."
     },
     {
       "text": "FORMIGA",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Juntas, as formigas do mundo pesam mais que todos os humanos somados."
     },
     {
       "text": "MORCEGO",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "É o único mamífero capaz de voar de verdade (não apenas planar)."
     },
     {
       "text": "BORBOLETA",
@@ -66,7 +73,8 @@
       "rowStart": 11,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Sente o gosto da comida pelas patas, não pela boca."
     }
   ]
 }

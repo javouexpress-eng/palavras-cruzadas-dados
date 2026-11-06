@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Corrente filosófica que duvida da possibilidade de um conhecimento certo e definitivo."
     },
     {
       "text": "MARXISMO",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Teoria criada por Karl Marx e Friedrich Engels, base do socialismo científico."
     },
     {
       "text": "DIALETICA",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Método de raciocínio baseado no confronto entre ideias opostas."
     },
     {
       "text": "EMPIRISMO",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Corrente que defende a experiência sensorial como fonte principal do conhecimento."
     },
     {
       "text": "CINISMO",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Escola filosófica grega que pregava viver de acordo com a natureza, livre de convenções sociais."
     },
     {
       "text": "UTILITARISMO",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Corrente ética que defende que a ação certa é a que gera mais felicidade pro maior número de pessoas."
     },
     {
       "text": "ONTOLOGIA",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Ramo da filosofia que estuda o ser e a existência em si."
     },
     {
       "text": "IDEALISMO",
@@ -66,7 +73,8 @@
       "rowStart": 11,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Corrente que defende que a realidade é, no fundo, moldada pela mente ou pelas ideias."
     }
   ]
 }

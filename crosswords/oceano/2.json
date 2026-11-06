@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 1,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É um dos poucos animais em que o macho é quem carrega os filhotes até nascerem."
     },
     {
       "text": "MARE",
@@ -18,7 +19,8 @@
       "rowStart": 3,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "As marés são causadas principalmente pela atração gravitacional da Lua sobre os oceanos."
     },
     {
       "text": "ONDA",
@@ -26,7 +28,8 @@
       "rowStart": 4,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Ondas de oceano podem viajar milhares de quilômetros antes de quebrar na praia."
     },
     {
       "text": "AMEIJOA",
@@ -34,7 +37,8 @@
       "rowStart": 4,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Alguns moluscos como a ameijoa podem viver dezenas de anos enterrados na areia."
     },
     {
       "text": "ALGA",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 7,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Produzem uma boa parte do oxigênio que respiramos, mesmo vivendo na água."
     },
     {
       "text": "PEIXE",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Existem mais espécies de peixes que todas as outras espécies de vertebrados somadas."
     },
     {
       "text": "FOCA",
@@ -58,7 +64,8 @@
       "rowStart": 7,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Consegue fechar as narinas embaixo da água pra evitar que entre água nos pulmões."
     },
     {
       "text": "AREIA",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "A areia branca de algumas praias tropicais é formada, em parte, por restos de corais e conchas trituradas."
     }
   ]
 }

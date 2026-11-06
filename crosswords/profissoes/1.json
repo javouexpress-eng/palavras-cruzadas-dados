@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 1,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Além de incêndios, atende resgates em acidentes, enchentes e desastres naturais."
     },
     {
       "text": "COZINHEIRO",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Trabalha em cozinhas profissionais preparando pratos seguindo receitas e padrões de higiene."
     },
     {
       "text": "MEDICO",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Precisa estudar por pelo menos 6 anos na faculdade antes de poder atuar."
     },
     {
       "text": "DENTISTA",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Cuida não só dos dentes, mas de toda a saúde bucal, incluindo gengivas e ossos da face."
     },
     {
       "text": "ENGENHEIRO",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Projeta e supervisiona a construção de pontes, prédios, máquinas e muito mais."
     },
     {
       "text": "PILOTO",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Precisa de treinamento rigoroso e horas de voo pra poder comandar uma aeronave."
     },
     {
       "text": "PROFESSOR",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "É responsável por ensinar e formar gerações inteiras de alunos."
     },
     {
       "text": "ADVOGADO",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Representa e defende os interesses de pessoas ou empresas perante a justiça."
     }
   ]
 }

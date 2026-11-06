@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Trabalha com instalação e manutenção de sistemas elétricos, sempre com regras estritas de segurança."
     },
     {
       "text": "CABELEIREIRO",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Trabalha cortando, penteando e cuidando dos cabelos dos clientes."
     },
     {
       "text": "JORNALISTA",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Apura, investiga e divulga informações de interesse público."
     },
     {
       "text": "TRADUTOR",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Converte textos de um idioma pra outro, mantendo o sentido original."
     },
     {
       "text": "ENFERMEIRO",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Cuida diretamente de pacientes, aplicando tratamentos e dando suporte à equipe médica."
     },
     {
       "text": "MOTORISTA",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Pode dirigir desde carros particulares até ônibus e caminhões de grande porte."
     },
     {
       "text": "FARMACEUTICO",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Orienta sobre o uso correto de medicamentos e cuida da dispensação em farmácias."
     },
     {
       "text": "PEDREIRO",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Trabalha na construção civil, erguendo paredes e estruturas com tijolos e argamassa."
     }
   ]
 }

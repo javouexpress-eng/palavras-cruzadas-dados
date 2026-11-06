@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É o processo que explica por que não vemos efeitos quânticos estranhos em objetos do dia a dia."
     },
     {
       "text": "GLUON",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "O nome vem do inglês \"glue\" (cola), porque ele \"cola\" os quarks dentro do próton."
     },
     {
       "text": "NUCLEON",
@@ -26,7 +28,8 @@
       "rowStart": 1,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Prótons e nêutrons, os núcleons, são compostos por três quarks cada."
     },
     {
       "text": "POSITRON",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Foi a primeira antipartícula descoberta, em 1932."
     },
     {
       "text": "NEUTRINO",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 1,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Bilhões de neutrinos passam pelo seu corpo todo segundo, sem interagir com ele."
     },
     {
       "text": "HADRON",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "O Grande Colisor de Hádrons (LHC) é o maior acelerador de partículas do mundo."
     },
     {
       "text": "NEUTRON",
@@ -58,7 +64,8 @@
       "rowStart": 5,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Foi descoberto em 1932 por James Chadwick, completando o modelo do núcleo atômico."
     },
     {
       "text": "COLAPSO",
@@ -66,7 +73,8 @@
       "rowStart": 5,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Na mecânica quântica, observar um sistema pode \"forçá-lo\" a assumir um único estado definido."
     },
     {
       "text": "TUNELAMENTO",
@@ -74,7 +82,8 @@
       "rowStart": 6,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "É o que permite o Sol realizar fusão nuclear mesmo sem calor suficiente pra vencer a repulsão entre núcleos."
     }
   ]
 }

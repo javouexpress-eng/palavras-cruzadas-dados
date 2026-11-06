@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 1,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É o que resta de um meteoro depois de atravessar a atmosfera e atingir o solo."
     },
     {
       "text": "ASTRONAUTA",
@@ -18,7 +19,8 @@
       "rowStart": 2,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Yuri Gagarin foi o primeiro ser humano a ir ao espaço, em 1961."
     },
     {
       "text": "VIALACTEA",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "É a galáxia onde está o nosso Sistema Solar, com centenas de bilhões de estrelas."
     },
     {
       "text": "TELESCOPIO",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "O telescópio espacial Hubble está em órbita desde 1990 e revolucionou a astronomia."
     },
     {
       "text": "SATELITE",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "A Lua é o único satélite natural da Terra."
     },
     {
       "text": "ECLIPSE",
@@ -50,7 +55,8 @@
       "rowStart": 3,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Ocorre quando um corpo celeste bloqueia a luz de outro, como na Lua cobrindo o Sol."
     },
     {
       "text": "ORBITA",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "É o caminho que um corpo celeste percorre em torno de outro por causa da gravidade."
     },
     {
       "text": "FOGUETE",
@@ -66,7 +73,8 @@
       "rowStart": 9,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "O Saturno V, usado nas missões Apollo, é um dos foguetes mais poderosos já construídos."
     }
   ]
 }

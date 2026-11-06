@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Jovem tão vaidoso que se apaixonou pelo próprio reflexo — origem da palavra \"narcisismo\"."
     },
     {
       "text": "CICLOPE",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Gigante mitológico com um único olho no meio da testa."
     },
     {
       "text": "TITAS",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Os titãs eram deuses primordiais, derrotados pelos deuses do Olimpo numa guerra chamada Titanomaquia."
     },
     {
       "text": "ICARO",
@@ -34,7 +37,8 @@
       "rowStart": 4,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Voou perto demais do Sol com asas de penas e cera, que derreteram."
     },
     {
       "text": "HERMES",
@@ -42,7 +46,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Mensageiro dos deuses, conhecido pela velocidade e pelas sandálias aladas."
     },
     {
       "text": "MEDUSA",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Criatura com cobras no lugar dos cabelos, capaz de transformar em pedra quem olhasse pra ela."
     },
     {
       "text": "TESEU",
@@ -58,7 +64,8 @@
       "rowStart": 7,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Herói que matou o Minotauro usando um fio pra não se perder no labirinto."
     },
     {
       "text": "PERSEFONE",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Deusa que passava parte do ano no submundo, associada às estações do ano."
     }
   ]
 }

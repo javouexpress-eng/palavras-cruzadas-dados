@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "A baleia-azul é o maior animal que já existiu na Terra, incluindo os dinossauros."
     },
     {
       "text": "GOLFINHO",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É um dos poucos animais capazes de se reconhecer num espelho."
     },
     {
       "text": "ESTRELA",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "A estrela-do-mar não tem cérebro nem sangue, mas consegue regenerar braços perdidos."
     },
     {
       "text": "TUBARAO",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Existe antes dos dinossauros — os primeiros tubarões surgiram há mais de 400 milhões de anos."
     },
     {
       "text": "LULA",
@@ -42,7 +46,8 @@
       "rowStart": 5,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Algumas espécies de lula conseguem mudar de cor em frações de segundo pra se camuflar."
     },
     {
       "text": "POLVO",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Tem três corações e sangue azul, por causa do cobre presente no seu sangue."
     },
     {
       "text": "CARANGUEJO",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Pode regenerar uma pata ou pinça perdida depois de algumas trocas de exoesqueleto."
     },
     {
       "text": "CORAL",
@@ -66,7 +73,8 @@
       "rowStart": 8,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Recifes de coral são formados por colônias de pequenos animais — não são plantas nem pedras."
     }
   ]
 }

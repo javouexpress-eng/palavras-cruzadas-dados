@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É o maior planeta do Sistema Solar — poderia conter mais de 1.300 Terras dentro dele."
     },
     {
       "text": "LEAO",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Constelação do zodíaco que representa o leão Nemeu, derrotado por Hércules na mitologia grega."
     },
     {
       "text": "ANDROMEDA",
@@ -26,7 +28,8 @@
       "rowStart": 0,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "É a galáxia espiral mais próxima da Via Láctea, visível a olho nu em noites escuras."
     },
     {
       "text": "CASSIOPEIA",
@@ -34,7 +37,8 @@
       "rowStart": 1,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Constelação em forma de \"W\" (ou \"M\"), batizada em homenagem a uma rainha da mitologia grega."
     },
     {
       "text": "CENTAURO",
@@ -42,7 +46,8 @@
       "rowStart": 2,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Constelação do hemisfério sul que abriga Alfa Centauri, um dos sistemas estelares mais próximos do Sol."
     },
     {
       "text": "COMETA",
@@ -50,7 +55,8 @@
       "rowStart": 2,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "É formado principalmente por gelo e poeira — por isso é chamado de \"bola de neve suja\"."
     },
     {
       "text": "TOURO",
@@ -58,7 +64,8 @@
       "rowStart": 4,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Constelação que abriga as Plêiades, um famoso aglomerado de estrelas."
     },
     {
       "text": "DOURADO",
@@ -66,7 +73,8 @@
       "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Constelação do hemisfério sul que contém parte da Grande Nuvem de Magalhães."
     },
     {
       "text": "PEGASO",
@@ -74,7 +82,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Constelação batizada em homenagem ao cavalo alado da mitologia grega."
     },
     {
       "text": "ORION",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Uma das constelações mais fáceis de identificar no céu, graças ao seu \"cinturão\" de três estrelas."
     }
   ]
 }

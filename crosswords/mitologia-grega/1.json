@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Músico mítico cuja música era tão bela que encantava até os animais e as pedras."
     },
     {
       "text": "ADONIS",
@@ -18,7 +19,8 @@
       "rowStart": 3,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Figura mítica tão bonita que seu nome até hoje é usado pra descrever um homem muito atraente."
     },
     {
       "text": "ARTEMIS",
@@ -26,7 +28,8 @@
       "rowStart": 4,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Deusa da caça e da lua, irmã gêmea de Apolo."
     },
     {
       "text": "HADES",
@@ -34,7 +37,8 @@
       "rowStart": 4,
       "colStart": 7,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Deus do submundo e dos mortos na mitologia grega, equivalente ao Plutão romano."
     },
     {
       "text": "AFRODITE",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Deusa do amor e da beleza, equivalente à Vênus romana."
     },
     {
       "text": "MINOTAURO",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Criatura com corpo de homem e cabeça de touro, presa num labirinto em Creta."
     },
     {
       "text": "APOLO",
@@ -58,7 +64,8 @@
       "rowStart": 7,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Deus da luz, da música e das artes, irmão gêmeo de Ártemis."
     },
     {
       "text": "DIONISIO",
@@ -66,7 +73,8 @@
       "rowStart": 9,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Deus do vinho, da festa e do teatro."
     }
   ]
 }

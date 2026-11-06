@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Corrente filosófica que defende o prazer como o maior bem da vida."
     },
     {
       "text": "LOCKE",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Filósofo inglês considerado um dos pais do liberalismo político."
     },
     {
       "text": "HUME",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Filósofo escocês conhecido por seu empirismo radical."
     },
     {
       "text": "ESTOICISMO",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Escola filosófica grega que ensina a aceitar com serenidade o que não se pode controlar."
     },
     {
       "text": "SPINOZA",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Filósofo holandês que via Deus e a natureza como a mesma coisa."
     },
     {
       "text": "VOLTAIRE",
@@ -50,7 +55,8 @@
       "rowStart": 4,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Filósofo francês do Iluminismo, defensor da liberdade de expressão."
     },
     {
       "text": "SARTRE",
@@ -58,7 +64,8 @@
       "rowStart": 5,
       "colStart": 1,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Filósofo francês existencialista, autor de \"O Ser e o Nada\"."
     },
     {
       "text": "HOBBES",
@@ -66,7 +73,8 @@
       "rowStart": 5,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Filósofo inglês autor de \"Leviatã\", sobre o contrato social."
     },
     {
       "text": "RACIONALISMO",
@@ -74,7 +82,8 @@
       "rowStart": 6,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Corrente que defende a razão como principal fonte de conhecimento."
     },
     {
       "text": "ROUSSEAU",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 10
+      "number": 10,
+      "curiosity": "Filósofo suíço que influenciou a Revolução Francesa com ideias sobre liberdade e igualdade."
     }
   ]
 }

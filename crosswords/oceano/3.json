@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Não voa, mas é um excelente nadador — pode atingir até 36 km/h na água."
     },
     {
       "text": "RECIFE",
@@ -18,7 +19,8 @@
       "rowStart": 2,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "A Grande Barreira de Corais, na Austrália, é a maior estrutura viva do planeta."
     },
     {
       "text": "MARISCO",
@@ -26,7 +28,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Moluscos como mariscos filtram água do mar pra se alimentar de partículas microscópicas."
     },
     {
       "text": "ANCORA",
@@ -34,7 +37,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "As primeiras âncoras eram feitas de pedra, muito antes do uso do metal."
     },
     {
       "text": "OSTRA",
@@ -42,7 +46,8 @@
       "rowStart": 6,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "É um dos poucos animais capazes de produzir pérolas, formadas como defesa contra irritações."
     },
     {
       "text": "FAROL",
@@ -50,7 +55,8 @@
       "rowStart": 9,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Antes da eletricidade, os faróis eram iluminados com fogo ou óleo."
     },
     {
       "text": "PORTO",
@@ -58,7 +64,8 @@
       "rowStart": 9,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Portos são essenciais pro comércio mundial — a maior parte das mercadorias viaja por navio."
     },
     {
       "text": "NAVIO",
@@ -66,7 +73,8 @@
       "rowStart": 11,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Os maiores navios porta-contêineres do mundo podem carregar mais de 20 mil contêineres."
     }
   ]
 }

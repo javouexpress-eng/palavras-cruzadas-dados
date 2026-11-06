@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É um dos cinco esportes presentes em todas as edições dos Jogos Olímpicos modernos."
     },
     {
       "text": "POLO",
@@ -18,7 +19,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Um dos esportes mais antigos praticados a cavalo, com origem na Pérsia antiga."
     },
     {
       "text": "MARATONA",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Tem 42,195 km, distância baseada numa lenda de um mensageiro grego."
     },
     {
       "text": "LUTA",
@@ -34,7 +37,8 @@
       "rowStart": 4,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Está entre os esportes mais antigos da humanidade, presente desde a Grécia Antiga."
     },
     {
       "text": "SKATE",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Tornou-se esporte olímpico oficial em 2020."
     },
     {
       "text": "CANOAGEM",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Pode ser disputada em água calma (velocidade) ou em corredeiras (slalom)."
     },
     {
       "text": "GOLFE",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "A primeira bola de golfe era feita de couro recheado de penas."
     },
     {
       "text": "TRIATLO",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Combina natação, ciclismo e corrida numa única prova."
     }
   ]
 }

@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "O plexo braquial é a rede de nervos que controla os movimentos do braço."
     },
     {
       "text": "NEURONAL",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Redes neuronais artificiais, usadas em inteligência artificial, foram inspiradas no funcionamento dos neurônios reais."
     },
     {
       "text": "ASTROCITO",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Além de dar suporte, os astrócitos ajudam a regular o fluxo de sangue no cérebro."
     },
     {
       "text": "POTENCIAL",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "O potencial de ação viaja pelo axônio a velocidades que podem passar de 100 metros por segundo."
     },
     {
       "text": "MICROGLIA",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Funcionam como o \"sistema imunológico\" do cérebro, eliminando células danificadas."
     },
     {
       "text": "GANGLIO",
@@ -50,7 +55,8 @@
       "rowStart": 3,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Os gânglios da base ajudam a controlar o movimento voluntário do corpo."
     },
     {
       "text": "SEROTONINA",
@@ -58,7 +64,8 @@
       "rowStart": 4,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Boa parte da serotonina do corpo é produzida no intestino, não no cérebro."
     },
     {
       "text": "RECEPTOR",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Existem receptores especializados pra luz, som, temperatura, pressão e substâncias químicas."
     },
     {
       "text": "TRONCO",
@@ -74,7 +82,8 @@
       "rowStart": 6,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "O tronco encefálico controla funções vitais automáticas, como respiração e batimentos cardíacos."
     },
     {
       "text": "AXONAL",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 10
+      "number": 10,
+      "curiosity": "O transporte axonal leva nutrientes e substâncias por toda a extensão do axônio, que pode ter até 1 metro."
     }
   ]
 }

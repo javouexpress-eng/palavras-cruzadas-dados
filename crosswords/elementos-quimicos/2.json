@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Símbolo He — é tão leve que faz balões flutuarem e muda temporariamente o tom da voz."
     },
     {
       "text": "ENXOFRE",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Símbolo S — tem cheiro característico de \"ovo podre\" quando se combina com hidrogênio."
     },
     {
       "text": "ALUMINIO",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Símbolo Al — é o metal mais abundante na crosta terrestre."
     },
     {
       "text": "FOSFORO",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Símbolo P — essencial pro DNA e pros ossos; o nome vem do grego \"que leva luz\"."
     },
     {
       "text": "ARGONIO",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Símbolo Ar — usado dentro de lâmpadas incandescentes por não reagir com o filamento."
     },
     {
       "text": "SILICIO",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Símbolo Si — é a base de quase todos os chips de computador."
     },
     {
       "text": "MAGNESIO",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Símbolo Mg — queima com uma luz branca muito intensa."
     },
     {
       "text": "NEONIO",
@@ -66,7 +73,8 @@
       "rowStart": 8,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Símbolo Ne — usado em letreiros luminosos por brilhar em vermelho-alaranjado quando eletrificado."
     },
     {
       "text": "CLORO",
@@ -74,7 +82,8 @@
       "rowStart": 10,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Símbolo Cl — usado pra desinfetar água de piscinas e de abastecimento."
     },
     {
       "text": "FLUOR",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 10
+      "number": 10,
+      "curiosity": "Símbolo F — é o elemento mais reativo que existe, usado em cremes dentais."
     }
   ]
 }

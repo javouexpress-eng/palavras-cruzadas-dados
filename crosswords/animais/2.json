@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Consegue girar a cabeça em até 270 graus pra compensar os olhos que não se movem."
     },
     {
       "text": "COELHO",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Nasce sem pelos e de olhos fechados, totalmente dependente da mãe nas primeiras semanas."
     },
     {
       "text": "TUBARAO",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Existe antes dos dinossauros — os primeiros tubarões surgiram há mais de 400 milhões de anos."
     },
     {
       "text": "RAPOSA",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Usa o campo magnético da Terra pra calcular a distância de uma presa escondida na neve."
     },
     {
       "text": "PINGUIM",
@@ -42,7 +46,8 @@
       "rowStart": 5,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Não voa, mas é um excelente nadador — pode atingir até 36 km/h na água."
     },
     {
       "text": "CAVALO",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Consegue dormir em pé, graças a um sistema de \"trava\" nas pernas."
     },
     {
       "text": "ARANHA",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "A maioria das espécies tem veneno, mas pouquíssimas são perigosas pra humanos."
     },
     {
       "text": "URSO",
@@ -66,7 +73,8 @@
       "rowStart": 9,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Durante a hibernação, pode ficar meses sem comer, beber ou fazer suas necessidades."
     }
   ]
 }

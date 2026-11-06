@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "A dor é um mecanismo de defesa — sem nociceptores, lesões graves poderiam passar despercebidas."
     },
     {
       "text": "NEUROGLIA",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Por muito tempo acreditou-se que só davam suporte, mas hoje sabemos que também participam da comunicação neural."
     },
     {
       "text": "AMIGDALA",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Apesar do nome, não tem relação com a amígdala da garganta — só coincidência de nome e formato."
     },
     {
       "text": "DOPAMINA",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Está ligada à sensação de recompensa, mas seu papel é mais sobre \"motivação\" do que só \"prazer\"."
     },
     {
       "text": "GLUTAMATO",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "É o neurotransmissor excitatório mais abundante do sistema nervoso central."
     },
     {
       "text": "ENCEFALO",
@@ -50,7 +55,8 @@
       "rowStart": 4,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "O peso médio do encéfalo humano adulto é de aproximadamente 1,4 kg."
     },
     {
       "text": "MEDULA",
@@ -58,7 +64,8 @@
       "rowStart": 5,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Lesões na medula espinhal podem causar perda de movimento ou sensibilidade abaixo do ponto afetado."
     },
     {
       "text": "PLASTICIDADE",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "É graças a ela que o cérebro consegue se adaptar e se recuperar após certas lesões."
     },
     {
       "text": "AMINA",
@@ -74,7 +82,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Dopamina, serotonina e adrenalina são todas monoaminas, com estrutura química parecida."
     }
   ]
 }

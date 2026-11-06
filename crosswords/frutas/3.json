@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É formada por várias pequenas \"drupas\" agrupadas — não é uma fruta única."
     },
     {
       "text": "JABUTICABA",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Nasce direto no tronco da árvore, não nos ramos."
     },
     {
       "text": "TANGERINA",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "É mais fácil de descascar que a laranja por ter a casca mais solta."
     },
     {
       "text": "MELAO",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Existem dezenas de variedades, como o melão-cantaloupe e o melão-amarelo."
     },
     {
       "text": "ROMA",
@@ -42,7 +46,8 @@
       "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Cada romã pode conter várias centenas de semininhas comestíveis chamadas arilos."
     },
     {
       "text": "PESSEGO",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É parente próximo da ameixa e da cereja — todas são do gênero Prunus."
     },
     {
       "text": "PITAYA",
@@ -58,7 +64,8 @@
       "rowStart": 8,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Também é conhecida como fruta-dragão."
     },
     {
       "text": "ACEROLA",
@@ -66,7 +73,8 @@
       "rowStart": 10,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Tem uma das maiores concentrações de vitamina C entre todas as frutas."
     }
   ]
 }

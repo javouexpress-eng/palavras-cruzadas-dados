@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É a ação judicial usada por um proprietário pra retomar um imóvel alugado."
     },
     {
       "text": "JURISDICAO",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É o poder do Estado de aplicar a lei e julgar conflitos."
     },
     {
       "text": "CUSTODIA",
@@ -26,7 +28,8 @@
       "rowStart": 0,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Pode se referir à prisão de alguém ou à guarda legal de uma criança."
     },
     {
       "text": "PRESCRICAO",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Depois de certo prazo sem agir, a pessoa pode perder o direito de cobrar algo na Justiça."
     },
     {
       "text": "USUFRUTO",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Permite usar e aproveitar os frutos de um bem sem ser o proprietário dele."
     },
     {
       "text": "PENHORA",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É a apreensão judicial de bens pra garantir o pagamento de uma dívida."
     },
     {
       "text": "EDITAL",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Concursos públicos e licitações sempre precisam de um edital publicado com as regras do processo."
     },
     {
       "text": "ALVARA",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "É necessário, por exemplo, pra abrir um estabelecimento comercial legalmente."
     }
   ]
 }

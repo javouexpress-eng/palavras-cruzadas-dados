@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Símbolo Hg — é o único metal líquido em temperatura ambiente."
     },
     {
       "text": "ESTANHO",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Símbolo Sn — usado há milênios pra fazer a liga bronze, junto com o cobre."
     },
     {
       "text": "MANGANES",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Símbolo Mn — essencial pra fabricação do aço resistente."
     },
     {
       "text": "PLATINA",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Símbolo Pt — mais rara e cara que o ouro na maior parte da história."
     },
     {
       "text": "COBALTO",
@@ -42,7 +46,8 @@
       "rowStart": 5,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Símbolo Co — dá a cor azul intensa a vidros e cerâmicas."
     },
     {
       "text": "CROMO",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Símbolo Cr — é o que dá brilho e resistência à corrosão ao aço inoxidável."
     },
     {
       "text": "CHUMBO",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Símbolo Pb — foi usado em canos e tintas até se descobrir que é tóxico."
     },
     {
       "text": "ZINCO",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Símbolo Zn — usado pra proteger o ferro da corrosão, num processo chamado galvanização."
     },
     {
       "text": "NIQUEL",
@@ -74,7 +82,8 @@
       "rowStart": 8,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Símbolo Ni — dá nome à moeda \"níquel\" por ter sido usado em ligas de moedas."
     },
     {
       "text": "TITANIO",
@@ -82,7 +91,8 @@
       "rowStart": 10,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Símbolo Ti — tão resistente quanto o aço, mas bem mais leve."
     }
   ]
 }

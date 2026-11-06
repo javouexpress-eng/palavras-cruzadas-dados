@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 10,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Ramo da filosofia que estuda a natureza da realidade e da existência."
     },
     {
       "text": "SOCRATES",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Filósofo grego que não deixou nada escrito — seu pensamento chegou até nós pelos discípulos."
     },
     {
       "text": "LOGICA",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Estuda as regras do raciocínio válido e dos argumentos corretos."
     },
     {
       "text": "NIETZSCHE",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Filósofo alemão conhecido pela frase \"Deus está morto\"."
     },
     {
       "text": "ETICA",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Ramo da filosofia que estuda o que é certo e errado nas ações humanas."
     },
     {
       "text": "KANT",
@@ -50,7 +55,8 @@
       "rowStart": 5,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Filósofo alemão autor de \"Crítica da Razão Pura\"."
     },
     {
       "text": "HEGEL",
@@ -58,7 +64,8 @@
       "rowStart": 5,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Filósofo alemão criador do método dialético (tese, antítese, síntese)."
     },
     {
       "text": "ARISTOTELES",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Discípulo de Platão e tutor de Alexandre, o Grande."
     },
     {
       "text": "PLATAO",
@@ -74,7 +82,8 @@
       "rowStart": 9,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Discípulo de Sócrates e fundador da Academia, uma das primeiras escolas filosóficas."
     },
     {
       "text": "DESCARTES",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 10
+      "number": 10,
+      "curiosity": "Autor da frase \"Penso, logo existo\"."
     }
   ]
 }

@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Deu nome ao famoso teorema sobre triângulos retângulos."
     },
     {
       "text": "CAMOES",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Luís de Camões escreveu \"Os Lusíadas\", um dos maiores poemas da língua portuguesa."
     },
     {
       "text": "BEETHOVEN",
@@ -26,7 +28,8 @@
       "rowStart": 1,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Compôs algumas de suas obras mais famosas mesmo após perder a audição."
     },
     {
       "text": "VINCI",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 3,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Leonardo da Vinci pintou a Mona Lisa, uma das obras mais famosas do mundo."
     },
     {
       "text": "TURING",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Alan Turing ajudou a decifrar códigos nazistas e é considerado um dos pais da computação."
     },
     {
       "text": "MOZART",
@@ -50,7 +55,8 @@
       "rowStart": 4,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Compôs sua primeira sinfonia com apenas 8 anos de idade."
     },
     {
       "text": "PASTEUR",
@@ -58,7 +64,8 @@
       "rowStart": 5,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Criou o processo de pasteurização, usado até hoje para conservar alimentos e bebidas."
     },
     {
       "text": "PICASSO",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Cofundador do cubismo, criou mais de 20 mil obras ao longo da vida."
     },
     {
       "text": "MENDEL",
@@ -74,7 +82,8 @@
       "rowStart": 9,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Seus experimentos com plantas de ervilha lançaram as bases da genética moderna."
     },
     {
       "text": "HIPOCRATES",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 10
+      "number": 10,
+      "curiosity": "Considerado o \"pai da medicina\", deu nome ao Juramento de Hipócrates feito por médicos."
     }
   ]
 }

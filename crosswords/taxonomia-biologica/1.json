@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 1,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Carl Linnaeus criou o sistema de nomenclatura binomial usado até hoje na biologia."
     },
     {
       "text": "ESPECIE",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É o nível mais específico da classificação biológica — organismos da mesma espécie podem se reproduzir entre si."
     },
     {
       "text": "CLASSE",
@@ -26,7 +28,8 @@
       "rowStart": 1,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "É o nível taxonômico entre filo e ordem, como \"Mammalia\" pros mamíferos."
     },
     {
       "text": "REINO",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "É um dos níveis mais amplos da classificação, como o Reino Animal ou o Reino Plantae."
     },
     {
       "text": "ORDEM",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Nível taxonômico entre classe e família, como \"Carnivora\" pros carnívoros."
     },
     {
       "text": "TAXONOMIA",
@@ -50,7 +55,8 @@
       "rowStart": 3,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É a ciência de classificar e nomear os seres vivos de forma organizada."
     },
     {
       "text": "BINOMIAL",
@@ -58,7 +64,8 @@
       "rowStart": 4,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "A nomenclatura binomial usa dois nomes em latim: gênero e espécie, como Homo sapiens."
     },
     {
       "text": "GENERO",
@@ -66,7 +73,8 @@
       "rowStart": 6,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "É o nível taxonômico logo acima da espécie, como \"Panthera\" pros grandes felinos."
     },
     {
       "text": "FILO",
@@ -74,7 +82,8 @@
       "rowStart": 8,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Nível taxonômico entre reino e classe, como o filo Chordata (animais com coluna vertebral)."
     },
     {
       "text": "FAMILIA",
@@ -82,7 +91,8 @@
       "rowStart": 10,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 10
+      "number": 10,
+      "curiosity": "Nível taxonômico entre ordem e gênero, como \"Felidae\" pra todos os felinos."
     }
   ]
 }

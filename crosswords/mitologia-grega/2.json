@@ -10,7 +10,8 @@
       "rowStart": 1,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Segundo o mito, abriu uma caixa (ou jarra) que liberou todos os males no mundo."
     },
     {
       "text": "POSEIDON",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Deus dos mares, equivalente ao Netuno romano."
     },
     {
       "text": "ATENA",
@@ -26,7 +28,8 @@
       "rowStart": 3,
       "colStart": 1,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Deusa da sabedoria e da guerra estratégica, padroeira da cidade de Atenas."
     },
     {
       "text": "PERSEU",
@@ -34,7 +37,8 @@
       "rowStart": 5,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Herói que decapitou a Medusa usando um escudo como espelho."
     },
     {
       "text": "HERACLES",
@@ -42,7 +46,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Herói mais famoso da mitologia grega, conhecido pelos romanos como Hércules."
     },
     {
       "text": "HERA",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Deusa do casamento e esposa de Zeus."
     },
     {
       "text": "CRONOS",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 6,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Titã que governava o tempo e era pai de Zeus."
     },
     {
       "text": "ZEUS",
@@ -66,7 +73,8 @@
       "rowStart": 11,
       "colStart": 3,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Rei dos deuses do Olimpo, deus do céu e dos raios."
     }
   ]
 }

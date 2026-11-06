@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "O que comemos como \"fruta\" é na verdade o pseudofruto — a castanha é a semente de verdade."
     },
     {
       "text": "ABACATE",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É rico em gordura boa, o que é raro entre as frutas."
     },
     {
       "text": "CEREJA",
@@ -26,7 +28,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "No Japão, a florada das cerejeiras (sakura) é celebrada todo ano na primavera."
     },
     {
       "text": "COCO",
@@ -34,7 +37,8 @@
       "rowStart": 2,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "A água de coco é praticamente estéril e já foi usada como soro em emergências."
     },
     {
       "text": "MELANCIA",
@@ -42,7 +46,8 @@
       "rowStart": 3,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "É composta por cerca de 90% de água."
     },
     {
       "text": "AMEIXA",
@@ -50,7 +55,8 @@
       "rowStart": 4,
       "colStart": 5,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Pode ser consumida fresca ou seca, quando se transforma na ameixa-seca."
     },
     {
       "text": "PERA",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Amadurece melhor fora do pé do que na própria árvore."
     },
     {
       "text": "KIWI",
@@ -66,7 +73,8 @@
       "rowStart": 9,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Tem mais vitamina C que a laranja, grama por grama."
     }
   ]
 }

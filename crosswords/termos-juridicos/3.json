@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "É um acordo entre partes que gera obrigações legais pra todos os envolvidos."
     },
     {
       "text": "COMPETENCIA",
@@ -18,7 +19,8 @@
       "rowStart": 0,
       "colStart": 0,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Define qual órgão ou juízo tem o poder legal de julgar determinado caso."
     },
     {
       "text": "NOTIFICACAO",
@@ -26,7 +28,8 @@
       "rowStart": 0,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "É usada pra formalizar um aviso, por exemplo, antes de uma cobrança judicial."
     },
     {
       "text": "INDENIZACAO",
@@ -34,7 +37,8 @@
       "rowStart": 0,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Busca reparar um dano, seja ele material, moral ou financeiro."
     },
     {
       "text": "COMODATO",
@@ -42,7 +46,8 @@
       "rowStart": 1,
       "colStart": 9,
       "direction": "VERTICAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "É um empréstimo gratuito de um bem, que deve ser devolvido depois de usado."
     },
     {
       "text": "TUTELA",
@@ -50,7 +55,8 @@
       "rowStart": 2,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Pode envolver a guarda legal de uma criança ou de bens de alguém incapaz."
     },
     {
       "text": "FIANCA",
@@ -58,7 +64,8 @@
       "rowStart": 4,
       "colStart": 5,
       "direction": "VERTICAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "É uma garantia em dinheiro ou bens pra assegurar o cumprimento de uma obrigação."
     },
     {
       "text": "PERITO",
@@ -66,7 +73,8 @@
       "rowStart": 5,
       "colStart": 7,
       "direction": "VERTICAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "É o especialista chamado pra dar um parecer técnico num processo judicial."
     },
     {
       "text": "CURATELA",
@@ -74,7 +82,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Protege legalmente pessoas que não podem gerir seus próprios interesses."
     },
     {
       "text": "DOACAO",
@@ -82,7 +91,8 @@
       "rowStart": 10,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 9
+      "number": 9,
+      "curiosity": "Transfere um bem de uma pessoa pra outra, sem exigir pagamento em troca."
     }
   ]
 }

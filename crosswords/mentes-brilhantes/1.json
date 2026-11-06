@@ -10,7 +10,8 @@
       "rowStart": 0,
       "colStart": 11,
       "direction": "VERTICAL",
-      "number": 1
+      "number": 1,
+      "curiosity": "Líder sul-africano que passou 27 anos na prisão antes de se tornar presidente e lutar contra o apartheid."
     },
     {
       "text": "DARWIN",
@@ -18,7 +19,8 @@
       "rowStart": 1,
       "colStart": 4,
       "direction": "VERTICAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Propôs a teoria da evolução das espécies por seleção natural."
     },
     {
       "text": "DUMONT",
@@ -26,7 +28,8 @@
       "rowStart": 1,
       "colStart": 4,
       "direction": "HORIZONTAL",
-      "number": 2
+      "number": 2,
+      "curiosity": "Santos Dumont é considerado por muitos o \"pai da aviação\" pelo voo do 14-Bis em 1906."
     },
     {
       "text": "GALILEU",
@@ -34,7 +37,8 @@
       "rowStart": 3,
       "colStart": 8,
       "direction": "VERTICAL",
-      "number": 3
+      "number": 3,
+      "curiosity": "Defendeu que a Terra gira em torno do Sol, o que lhe trouxe problemas com a Igreja da época."
     },
     {
       "text": "MARIE",
@@ -42,7 +46,8 @@
       "rowStart": 4,
       "colStart": 7,
       "direction": "HORIZONTAL",
-      "number": 4
+      "number": 4,
+      "curiosity": "Marie Curie foi a primeira pessoa a ganhar dois Prêmios Nobel em áreas científicas diferentes."
     },
     {
       "text": "EINSTEIN",
@@ -50,7 +55,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Criou a teoria da relatividade, que mudou a forma de entender o espaço e o tempo."
     },
     {
       "text": "EDISON",
@@ -58,7 +64,8 @@
       "rowStart": 6,
       "colStart": 2,
       "direction": "VERTICAL",
-      "number": 5
+      "number": 5,
+      "curiosity": "Registrou mais de mil patentes, incluindo melhorias na lâmpada incandescente."
     },
     {
       "text": "FREUD",
@@ -66,7 +73,8 @@
       "rowStart": 8,
       "colStart": 6,
       "direction": "HORIZONTAL",
-      "number": 6
+      "number": 6,
+      "curiosity": "Criou a psicanálise e popularizou ideias sobre o inconsciente."
     },
     {
       "text": "TESLA",
@@ -74,7 +82,8 @@
       "rowStart": 9,
       "colStart": 0,
       "direction": "HORIZONTAL",
-      "number": 7
+      "number": 7,
+      "curiosity": "Deu nome à unidade de campo magnético e inspirou o nome de uma famosa montadora de carros elétricos."
     },
     {
       "text": "NEWTON",
@@ -82,7 +91,8 @@
       "rowStart": 11,
       "colStart": 2,
       "direction": "HORIZONTAL",
-      "number": 8
+      "number": 8,
+      "curiosity": "Formulou as leis do movimento e da gravitação universal."
     }
   ]
 }
